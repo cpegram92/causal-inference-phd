@@ -1,0 +1,895 @@
+PatientID,DataSilo,BirthDate,InsuranceStatus,SexNeuterStatus,VetCompassBreed,Bodyweight,DateofFirstPresentationofDiarrhoea,Duration,Vomiting,ReducedAppetite,Pyrexia,Hematochezia,AntibioticTreatment,GINutraceutical,DietaryManagement,Antiparasitic,GastrointestinalAgent,Resolution,ComorbidityatDiagnosis,TreatmentEscalation 
+428204,0,22/03/2019 00:00,0,Female_Entire,Crossbreed,4.9,20/06/2019 00:00,48hrs to 96hrs,0,1,0,0,NonAntibiotic,GInutraceutical,1,1,0,0,0,Yes
+952712,4,08/05/2019 00:00,0,Female_Entire,Sprocker,4.9,06/08/2019 00:00,24hrs to 48hrs,0,1,0,0,NonAntibiotic,GInutraceutical,0,0,0,0,1,Yes
+286423,0,29/04/2019 00:00,1,Female_Neutered,Border Terrier,3.17,29/07/2019 00:00,24hrs to 48hrs,0,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,0,No
+814696,0,17/02/2019 00:00,0,Female_Neutered,Border Collie,6.3,19/05/2019 00:00,24hrs to 48hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,1,0,1,1,No
+177256,3,15/01/2019 00:00,0,Female_Entire,Labrador Retriever,9.2,16/04/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,NoGInutraceutical,0,1,0,1,0,No
+254184,0,20/02/2019 00:00,0,Male_Neutered,Miniature Dachshund,2.85,23/05/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+804759,3,07/06/2019 00:00,0,Male_Entire,Dogue de Bordeaux,14.2,06/09/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,1,No
+570708,1,11/05/2019 00:00,1,Male_Entire,Maltese,1.45,14/08/2019 00:00,48hrs to 96hrs,0,1,0,1,Antibiotic,GInutraceutical,0,0,0,1,0,No
+341773,0,13/02/2019 00:00,0,Female_Entire,Pug,NA,19/05/2019 00:00,24hrs to 48hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+781433,4,18/11/2018 00:00,0,Female_Neutered,German Shepherd Dog,6.6,23/02/2019 00:00,Less than 24hrs,0,1,1,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+521108,3,27/02/2019 00:00,0,Male_Entire,Labrador Retriever,11.5,04/06/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,NoGInutraceutical,1,1,0,0,0,Yes
+626500,0,07/07/2019 00:00,1,Male_Entire,Labrador Retriever,9.65,14/10/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+822628,3,28/02/2019 00:00,1,Male_Entire,Siberian Husky,14.4,07/06/2019 00:00,48hrs to 96hrs,0,0,0,0,Antibiotic,GInutraceutical,1,0,0,1,0,No
+653077,0,01/12/2018 00:00,0,Male_Neutered,French Bulldog,3.4,13/03/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,1,No
+957246,3,25/06/2019 00:00,0,Female_Entire,American Bulldog,5.6,05/10/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+77876,1,21/01/2019 00:00,1,Female_Neutered,Staffordshire Bull Terrier,8,04/05/2019 00:00,48hrs to 96hrs,0,0,0,1,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+689984,1,30/12/2018 00:00,1,Male_Neutered,Border Collie,9,12/04/2019 00:00,Less than 24hrs,0,1,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,0,No
+675371,0,10/05/2019 00:00,0,Male_Entire,Cocker Spaniel,3.95,23/08/2019 00:00,24hrs to 48hrs,1,0,1,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+310120,1,14/03/2019 00:00,0,Male_Entire,Border Collie,7,27/06/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,0,No
+141069,1,02/01/2019 00:00,1,Male_Entire,Welsh Springer Spaniel,9.85,17/04/2019 00:00,24hrs to 48hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,1,0,1,0,No
+924696,1,08/01/2019 00:00,1,Male_Entire,Crossbreed,2.6,24/04/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+75036,4,15/01/2019 00:00,0,Male_Neutered,Cavalier King Charles Spaniel,3.77,01/05/2019 00:00,24hrs to 48hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+874475,0,04/04/2019 00:00,0,Male_Neutered,King Charles Spaniel,3.9,19/07/2019 00:00,Not Stated,0,0,0,0,Antibiotic,NoGInutraceutical,0,0,0,1,1,No
+150078,0,29/07/2019 00:00,0,Male_Neutered,Cavapoo,NA,12/11/2019 00:00,Not Stated,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,1,No
+590780,0,04/04/2019 00:00,0,Male_Neutered,Welsh Corgi,3,22/07/2019 00:00,Less than 24hrs,0,0,0,1,NonAntibiotic,NoGInutraceutical,1,1,0,1,0,No
+662009,1,29/09/2018 00:00,1,Female_Entire,German Shepherd Dog,6.35,18/01/2019 00:00,Not Stated,0,0,0,0,Antibiotic,GInutraceutical,1,0,0,1,0,No
+178905,1,16/03/2019 00:00,0,Male_Entire,Cocker Spaniel,8.5,05/07/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,0,No
+958975,4,29/09/2018 00:00,0,Male_Neutered,English Cocker Spaniel,3.94,20/01/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,1,0,1,0,No
+823693,0,21/09/2018 00:00,1,Female_Entire,Crossbreed,9.9,12/01/2019 00:00,48hrs to 96hrs,1,1,0,0,Antibiotic,NoGInutraceutical,0,0,0,1,1,No
+94967,1,06/03/2019 00:00,0,Female_Neutered,Flat Coated Retriever,14.45,27/06/2019 00:00,24hrs to 48hrs,0,1,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+99058,4,13/07/2019 00:00,0,Male_Entire,Cockapoo,7.05,04/11/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+373578,1,10/05/2019 00:00,1,Male_Entire,Yorkshire Terrier,4,02/09/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,1,0,1,0,No
+801753,3,19/01/2019 00:00,0,Male_Entire,French Bulldog,10.6,07/10/2019 00:00,24hrs to 48hrs,0,0,0,0,Antibiotic,GInutraceutical,1,0,0,0,1,Yes
+558890,1,07/01/2019 00:00,1,Male_Neutered,Cavalier King Charles Spaniel,5.2,04/05/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,GInutraceutical,1,1,0,0,1,Yes
+655851,1,21/11/2018 00:00,0,Male_Entire,Cocker Spaniel,9.5,19/03/2019 00:00,24hrs to 48hrs,0,0,0,0,Antibiotic,GInutraceutical,1,0,0,1,0,No
+661589,0,07/06/2019 00:00,1,Male_Entire,Labrador Retriever,NA,02/10/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,1,No
+805275,0,23/11/2018 00:00,0,Male_Entire,Hungarian Vizsla,13.9,22/03/2019 00:00,48hrs to 96hrs,0,1,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+59992,3,25/12/2018 00:00,1,Female_Entire,Cocker Spaniel,NA,24/04/2019 00:00,4-7 days.,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,1,No
+489591,3,01/04/2019 00:00,0,Male_Entire,French Bulldog,5.5,31/07/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,1,No
+280553,4,08/06/2019 00:00,0,Female_Neutered,Crossbreed,6.43,08/10/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+89958,0,01/03/2019 00:00,0,Female_Neutered,Border Collie,NA,17/10/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,1,No
+78674,0,28/01/2019 00:00,0,Female_Entire,Crossbreed,2.4,31/05/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,1,0,0,0,Yes
+303180,4,09/09/2018 00:00,0,Female_Neutered,Cavapoo,4.78,10/01/2019 00:00,48hrs to 96hrs,0,1,0,1,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+497332,0,30/01/2019 00:00,0,Male_Entire,Cane Corso Italiano,10.7,03/06/2019 00:00,24hrs to 48hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,1,No
+36973,1,13/02/2019 00:00,0,Female_Entire,Olde English Bulldogge,15.2,17/06/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,1,1,0,No
+61582,4,20/06/2019 00:00,0,Male_Entire,Rhodesian Ridgeback,22.1,22/10/2019 00:00,24hrs to 48hrs,0,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,1,No
+684445,0,01/07/2019 00:00,0,Female_Entire,Shih-tzu,3.4,03/11/2019 00:00,Not Stated,1,0,1,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+388847,1,14/12/2018 00:00,1,Female_Neutered,Cocker Spaniel,5.9,18/04/2019 00:00,4-7 days.,0,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,1,No
+854353,0,08/03/2019 00:00,0,Male_Entire,Miniature Dachshund,2.5,12/07/2019 00:00,4-7 days.,0,0,0,0,Antibiotic,GInutraceutical,0,1,0,1,0,No
+185060,0,04/12/2018 00:00,0,Female_Entire,Labradoodle,7,09/04/2019 00:00,24hrs to 48hrs,0,0,0,1,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+317537,4,15/06/2019 00:00,0,Male_Neutered,Sprocker,10.25,25/10/2019 00:00,24hrs to 48hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+673412,0,08/03/2019 00:00,1,Male_Neutered,Crossbreed,NA,19/07/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,0,No
+46595,4,15/02/2019 00:00,0,Female_Neutered,British Bulldog ,11.3,25/06/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,0,No
+809796,4,02/02/2019 00:00,0,Male_Entire,Yorkshire Terrier,3.5,18/06/2019 00:00,24hrs to 48hrs,1,1,0,0,Antibiotic,GInutraceutical,0,0,1,1,0,No
+839004,4,30/11/2018 00:00,0,Female_Entire,French Bulldog,6.55,17/04/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,GInutraceutical,0,1,0,1,0,No
+455820,0,22/06/2019 00:00,0,Male_Entire,English Springer Spaniel,NA,07/11/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+238947,1,25/10/2018 00:00,0,Female_Entire,Whippet,7.3,14/03/2019 00:00,48hrs to 96hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+292178,1,13/03/2019 00:00,1,Male_Entire,French Bulldog,7.81,31/07/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,GInutraceutical,1,1,0,1,0,No
+405639,4,26/03/2019 00:00,0,Male_Neutered,French Bulldog,8,16/08/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,NoGInutraceutical,1,1,0,1,0,No
+794834,4,04/06/2019 00:00,0,Male_Entire,Crossbreed,13,25/10/2019 00:00,Less than 24hrs,1,0,1,0,Antibiotic,GInutraceutical,1,0,1,1,0,No
+588653,0,08/04/2019 00:00,0,Female_Entire,French Bulldog,6.4,02/09/2019 00:00,24hrs to 48hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+101386,0,31/12/2018 00:00,0,Female_Entire,Chihuahua,2,28/05/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,1,No
+739955,0,02/07/2019 00:00,0,Female_Entire,Pomeranian,3.52,27/11/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+970172,0,01/10/2018 00:00,0,Male_Neutered,Labradoodle,9.5,28/02/2019 00:00,Not Stated,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+981923,3,19/04/2019 00:00,0,Male_Entire,American Bulldog,NA,17/09/2019 00:00,Less than 24hrs,0,0,0,0,Antibiotic,GInutraceutical,0,1,1,1,1,No
+141973,0,17/05/2019 00:00,0,Male_Entire,Shih-tzu,5.5,16/10/2019 00:00,Not Stated,1,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,0,No
+163036,4,06/07/2019 00:00,0,Male_Neutered,Crossbreed,5.95,06/12/2019 00:00,Not Stated,1,1,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,0,No
+463515,1,26/02/2019 00:00,0,Female_Entire,Dogue de Bordeaux,22,29/07/2019 00:00,Less than 24hrs,1,0,0,0,Antibiotic,NoGInutraceutical,1,1,0,1,0,No
+181048,3,20/09/2018 00:00,0,Male_Entire,American Bulldog,NA,20/02/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,0,No
+872996,1,15/10/2018 00:00,0,Female_Entire,Cockapoo,6.8,18/03/2019 00:00,Less than 24hrs,1,1,0,1,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+101616,1,09/08/2018 00:00,0,Male_Entire,Cocker Spaniel,8.4,10/01/2019 00:00,4-7 days.,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+352064,1,15/10/2018 00:00,1,Male_Neutered,French Bulldog,14,17/08/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,0,No
+675989,1,15/05/2019 00:00,0,Female_Neutered,Cocker Spaniel,NA,18/10/2019 00:00,Not Stated,0,0,0,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+157521,4,13/07/2019 00:00,1,Female_Neutered,Parson Russell Terrier,6.15,18/12/2019 00:00,Less than 24hrs,0,0,0,0,Antibiotic,NoGInutraceutical,0,0,0,1,0,No
+677998,0,15/09/2018 00:00,0,Male_Entire,Labrador Retriever,NA,21/02/2019 00:00,48hrs to 96hrs,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+217442,4,14/08/2018 00:00,1,Male_Entire,English Cocker Spaniel,9.8,21/01/2019 00:00,Not Stated,0,1,1,0,NonAntibiotic,NoGInutraceutical,1,0,0,0,0,No
+326989,1,25/03/2019 00:00,1,Female_Neutered,Crossbreed,9,02/09/2019 00:00,24hrs to 48hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,0,0,Yes
+967512,0,21/07/2019 00:00,0,Female_Entire,Sprocker,3.6,30/12/2019 00:00,48hrs to 96hrs,1,1,1,0,Antibiotic,NoGInutraceutical,0,0,1,1,0,No
+248471,0,16/12/2018 00:00,1,Female_Neutered,Sprocker,11.5,30/05/2019 00:00,Less than 24hrs,0,0,1,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+983549,0,15/06/2019 00:00,0,Female_Entire,Labrador Retriever,13.6,27/11/2019 00:00,48hrs to 96hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+223128,0,30/04/2019 00:00,0,Male_Neutered,Crossbreed,22,12/10/2019 00:00,Less than 24hrs,1,0,1,0,NonAntibiotic,NoGInutraceutical,1,0,1,1,0,No
+735534,0,03/01/2019 00:00,0,Female_Neutered,English Bull Terrier,13.2,18/06/2019 00:00,Less than 24hrs,1,0,1,0,Antibiotic,GInutraceutical,1,0,1,1,0,No
+707305,0,29/10/2018 00:00,0,Female_Neutered,Rhodesian Ridgeback,30.9,15/04/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,GInutraceutical,1,1,0,1,1,No
+432655,0,17/10/2018 00:00,0,Male_Entire,German Shepherd Dog,NA,05/04/2019 00:00,24hrs to 48hrs,0,0,0,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+917957,3,14/07/2018 00:00,0,Male_Entire,Cavapoo,NA,04/01/2019 00:00,4-7 days.,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+295952,0,14/02/2019 00:00,0,Male_Entire,Crossbreed,NA,09/08/2019 00:00,48hrs to 96hrs,1,0,0,1,Antibiotic,GInutraceutical,0,0,1,1,0,No
+969588,4,05/04/2019 00:00,0,Male_Entire,French Bulldog,10.7,30/09/2019 00:00,Not Stated,1,0,0,0,Antibiotic,GInutraceutical,1,1,0,1,0,No
+926718,1,07/01/2019 00:00,1,Male_Entire,Cockapoo,9.45,07/07/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+591082,0,10/11/2018 00:00,0,Male_Entire,Crossbreed,7,11/05/2019 00:00,Less than 24hrs,1,1,0,1,Antibiotic,GInutraceutical,0,0,1,1,0,No
+280762,3,12/10/2018 00:00,0,Male_Entire,German Shepherd Dog,NA,12/04/2019 00:00,4-7 days.,1,1,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+272986,0,08/06/2019 00:00,0,Male_Neutered,Crossbreed,4.6,09/12/2019 00:00,Less than 24hrs,0,1,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+971684,0,05/08/2018 00:00,0,Male_Entire,English Springer Spaniel,NA,05/02/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+670374,1,23/12/2018 00:00,0,Female_Entire,Crossbreed,7.2,26/06/2019 00:00,48hrs to 96hrs,0,1,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,0,No
+555568,0,05/12/2018 00:00,1,Male_Neutered,Cockapoo,11.5,11/06/2019 00:00,Less than 24hrs,1,1,0,0,Antibiotic,GInutraceutical,1,1,1,1,0,No
+806728,1,03/07/2018 00:00,1,Female_Entire,English Boxer,23,07/01/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+763220,3,05/09/2018 00:00,0,Male_Entire,Labrador Retriever,NA,18/03/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,1,No
+958165,0,04/11/2018 00:00,0,Male_Neutered,Jack Russell Terrier,5.1,18/05/2019 00:00,4-7 days.,1,1,0,0,Antibiotic,GInutraceutical,0,0,1,1,0,No
+520356,1,08/12/2018 00:00,0,Female_Neutered,Miniature Dachshund,NA,21/06/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,1,0,1,1,No
+56510,0,28/05/2019 00:00,0,Male_Entire,French Bulldog,12.8,11/12/2019 00:00,48hrs to 96hrs,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+226924,0,04/05/2019 00:00,0,Male_Entire,Cockapoo,8.6,19/11/2019 00:00,Not Stated,1,1,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+252457,0,23/03/2019 00:00,1,Male_Entire,Border Collie,14.5,09/10/2019 00:00,Not Stated,0,0,1,0,NonAntibiotic,GInutraceutical,0,0,0,1,1,No
+184537,0,17/10/2018 00:00,1,Female_Neutered,Cavapoo,5,09/05/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,1,No
+892,4,10/07/2018 00:00,0,Male_Entire,Pug,6,31/01/2019 00:00,48hrs to 96hrs,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+718005,1,18/01/2019 00:00,1,Male_Neutered,Crossbreed,5.4,16/08/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+672835,0,29/06/2018 00:00,0,Female_Neutered,Cockapoo,8.37,25/01/2019 00:00,48hrs to 96hrs,1,0,0,0,Antibiotic,NoGInutraceutical,0,0,1,1,0,No
+991912,0,10/05/2019 00:00,0,Male_Entire,German Shepherd Dog,29,06/12/2019 00:00,Less than 24hrs,1,1,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+753374,4,12/06/2018 00:00,1,Male_Entire,French Bulldog,10.75,10/01/2019 00:00,24hrs to 48hrs,1,1,1,0,Antibiotic,NoGInutraceutical,0,0,1,0,0,Yes
+555255,3,09/02/2019 00:00,0,Male_Neutered,Whippet,11.2,09/09/2019 00:00,48hrs to 96hrs,1,1,1,0,Antibiotic,GInutraceutical,0,0,1,1,0,No
+573909,4,07/01/2019 00:00,0,Male_Entire,Miniature Dachshund,7.6,08/08/2019 00:00,48hrs to 96hrs,0,0,0,1,Antibiotic,GInutraceutical,1,0,0,1,0,No
+998242,3,01/11/2018 00:00,0,Female_Entire,Jack Russell Terrier,4.8,03/06/2019 00:00,24hrs to 48hrs,1,1,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+65873,0,06/02/2019 00:00,0,Male_Neutered,Crossbreed,12.8,09/09/2019 00:00,24hrs to 48hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+734634,1,10/12/2018 00:00,0,Male_Entire,Standard Rottweiler,37.75,13/07/2019 00:00,24hrs to 48hrs,0,1,0,0,NonAntibiotic,GInutraceutical,1,1,0,1,0,No
+721534,4,05/04/2019 00:00,0,Male_Entire,Cocker Spaniel,8.8,07/11/2019 00:00,4-7 days.,0,0,0,0,NonAntibiotic,GInutraceutical,0,1,0,1,0,No
+595490,4,14/11/2018 00:00,0,Male_Entire,Rottweiler,35,19/06/2019 00:00,4-7 days.,1,0,0,0,Antibiotic,NoGInutraceutical,1,0,0,1,0,No
+537452,2,24/08/2018 14:50,1,Male_Neutered,Crossbreed,NA,25/12/2019 00:00,Less than 24hrs,1,0,1,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+254035,4,24/01/2019 00:00,1,Male_Entire,French Bulldog,9.8,03/09/2019 00:00,Not Stated,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+585342,3,27/03/2019 00:00,1,Male_Neutered,Greyhound,25.4,04/11/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,NoGInutraceutical,1,1,0,0,0,Yes
+177350,0,27/09/2018 00:00,1,Female_Neutered,Cockapoo,6.1,08/05/2019 00:00,Less than 24hrs,1,0,0,0,Antibiotic,GInutraceutical,0,0,1,1,0,No
+498042,0,19/01/2019 00:00,1,Male_Neutered,Shih-tzu,8.8,05/11/2019 00:00,4-7 days.,1,1,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,0,0,No
+312694,0,13/10/2018 00:00,1,Female_Neutered,Cockapoo,9.3,16/09/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+993630,1,28/09/2018 00:00,1,Female_Neutered,Crossbreed,10,14/05/2019 00:00,48hrs to 96hrs,0,0,0,1,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+690844,1,28/07/2018 00:00,0,Male_Entire,Crossbreed,14,13/03/2019 00:00,4-7 days.,0,0,0,0,Antibiotic,NoGInutraceutical,0,0,0,1,0,No
+631811,0,25/05/2018 00:00,0,Male_Neutered,Beagle,NA,11/01/2019 00:00,24hrs to 48hrs,0,0,0,0,Antibiotic,GInutraceutical,0,1,0,1,0,No
+730361,1,02/05/2019 00:00,1,Female_Entire,English Springer Spaniel,12.15,20/12/2019 00:00,24hrs to 48hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,1,No
+174654,1,08/06/2018 00:00,0,Male_Neutered,Smooth-Haired Hungarian Vizsla,NA,29/01/2019 00:00,Not Stated,1,1,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,1,No
+912326,4,18/04/2019 00:00,0,Male_Neutered,Chihuahua,2.53,11/12/2019 00:00,48hrs to 96hrs,1,0,0,0,Antibiotic,GInutraceutical,1,0,0,1,0,No
+366005,4,11/01/2019 00:00,1,Female_Neutered,Cavapoo,5.7,05/09/2019 00:00,48hrs to 96hrs,0,1,0,0,Antibiotic,NoGInutraceutical,0,0,1,0,0,Yes
+301359,3,03/05/2019 00:00,1,Female_Entire,German Shepherd Dog,29.75,26/12/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+447627,0,20/11/2018 00:00,0,Female_Neutered,Beagle,6.02,17/07/2019 00:00,Less than 24hrs,1,0,0,1,Antibiotic,NoGInutraceutical,0,0,0,1,0,No
+570709,1,17/10/2018 00:00,0,Female_Entire,Border Collie,13.3,19/06/2019 00:00,24hrs to 48hrs,0,0,0,1,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+99308,4,22/02/2019 00:00,0,Male_Neutered,Crossbreed,7.6,30/10/2019 00:00,4-7 days.,0,0,0,0,Antibiotic,NoGInutraceutical,0,0,0,1,0,No
+324887,0,30/11/2018 00:00,0,Male_Entire,Crossbreed,3.8,08/08/2019 00:00,24hrs to 48hrs,1,1,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,0,No
+628087,4,07/03/2019 00:00,0,Female_Entire,Bernese Mountain Dog,38.6,13/11/2019 00:00,4-7 days.,1,0,0,0,NonAntibiotic,GInutraceutical,1,1,0,1,0,No
+250184,0,09/05/2018 00:00,1,Female_Neutered,French Bulldog,NA,16/01/2019 00:00,48hrs to 96hrs,0,1,1,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+434876,0,24/11/2018 00:00,0,Male_Entire,Tibetan Terrier,11.26,06/08/2019 00:00,24hrs to 48hrs,0,1,1,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+109403,1,13/05/2018 00:00,1,Male_Entire,English Springer Spaniel,19.1,23/01/2019 00:00,Not Stated,0,1,0,0,NonAntibiotic,GInutraceutical,0,1,0,1,0,No
+248422,0,19/09/2018 00:00,0,Female_Entire,British Bulldog ,25,31/05/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,0,No
+196212,4,11/05/2018 00:00,0,Male_Neutered,American Bulldog,25.8,25/01/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+743630,1,21/07/2018 00:00,1,Female_Entire,Staffordshire Bull Terrier,11.5,07/04/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+198106,4,10/03/2019 00:00,0,Female_Neutered,Maltese,3.88,28/11/2019 00:00,Less than 24hrs,1,1,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+924187,0,16/10/2018 00:00,0,Female_Neutered,Yorkshire Terrier,3.4,08/07/2019 00:00,48hrs to 96hrs,1,0,0,0,NonAntibiotic,GInutraceutical,0,1,0,1,0,No
+145308,0,25/07/2018 00:00,0,Male_Entire,Shih-tzu,5.4,18/04/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+96262,1,14/01/2019 00:00,0,Female_Entire,Chihuahua,2.01,10/10/2019 00:00,Less than 24hrs,0,1,0,0,NonAntibiotic,NoGInutraceutical,1,0,1,1,0,No
+874120,0,23/08/2018 00:00,0,Female_Entire,Cockapoo,NA,22/05/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,0,No
+832892,0,02/06/2018 00:00,0,Male_Entire,Lhasa Apso,7,02/03/2019 00:00,4-7 days.,1,0,0,0,Antibiotic,NoGInutraceutical,0,0,0,1,0,No
+552953,3,02/05/2018 00:00,1,Male_Entire,Crossbreed,40.5,30/01/2019 00:00,24hrs to 48hrs,0,0,0,1,Antibiotic,GInutraceutical,0,0,0,1,0,No
+120867,1,01/05/2018 00:00,0,Male_Entire,Crossbreed,18.8,30/01/2019 00:00,Less than 24hrs,0,1,1,0,NonAntibiotic,GInutraceutical,1,1,0,1,0,No
+110407,1,09/09/2018 00:00,0,Female_Entire,Staffordshire Bull Terrier,16.6,12/06/2019 00:00,48hrs to 96hrs,1,1,0,0,Antibiotic,GInutraceutical,1,0,1,1,0,No
+687175,3,31/03/2018 00:00,1,Male_Entire,Labrador Retriever,28.8,04/01/2019 00:00,48hrs to 96hrs,1,1,0,0,NonAntibiotic,GInutraceutical,1,1,0,0,0,Yes
+434339,4,14/12/2018 00:00,0,Female_Neutered,French Bulldog,4.9,15/03/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,0,0,No
+430589,3,09/09/2018 00:00,0,Male_Entire,French Bulldog,15.1,21/06/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,1,No
+259528,1,18/08/2018 00:00,0,Not Recorded,Crossbreed,19,30/05/2019 00:00,Not Stated,1,0,0,0,Antibiotic,NoGInutraceutical,0,0,0,1,0,No
+525548,4,18/06/2018 00:00,0,Male_Entire,Pug,NA,30/03/2019 00:00,Less than 24hrs,0,0,1,1,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+727138,0,06/06/2018 00:00,0,Female_Neutered,Crossbreed,NA,19/03/2019 00:00,48hrs to 96hrs,0,0,0,1,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+190313,0,28/09/2018 00:00,0,Male_Entire,Labrador Retriever,17.2,16/07/2019 00:00,4-7 days.,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+689867,0,05/04/2018 00:00,0,Male_Neutered,German Shepherd Dog,NA,22/01/2019 00:00,Not Stated,0,0,0,0,Antibiotic,GInutraceutical,1,0,0,1,0,No
+964084,4,17/10/2018 00:00,0,Female_Neutered,Labradoodle,8.3,07/08/2019 00:00,24hrs to 48hrs,0,0,0,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+618978,1,26/06/2018 00:00,0,Female_Entire,Flat Coated Retriever,30,16/04/2019 00:00,48hrs to 96hrs,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,1,No
+333760,0,31/03/2018 00:00,0,Female_Neutered,Cockapoo,8.2,23/01/2019 00:00,48hrs to 96hrs,0,0,0,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+593020,1,04/10/2018 00:00,0,Male_Entire,Italian Spinone,NA,29/07/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,0,0,No
+442967,4,26/04/2018 00:00,0,Male_Entire,Rottweiler,NA,19/02/2019 00:00,48hrs to 96hrs,1,0,0,1,NonAntibiotic,GInutraceutical,0,0,0,0,1,Yes
+297931,4,18/08/2018 00:00,0,Male_Neutered,Pug,11,14/06/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,1,1,0,No
+131651,0,10/03/2018 00:00,0,Male_Entire,Border Collie,14.8,04/01/2019 00:00,24hrs to 48hrs,0,0,0,1,Antibiotic,GInutraceutical,1,0,0,1,0,No
+151496,3,07/11/2018 00:00,1,Female_Entire,Pomsky,13.4,05/09/2019 00:00,Less than 24hrs,1,0,0,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+117036,0,07/08/2018 00:00,1,Female_Neutered,Jack Russell Terrier,5.7,07/06/2019 00:00,24hrs to 48hrs,1,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,1,1,0,No
+745313,1,10/06/2018 00:00,0,Female_Neutered,Crossbreed,6.9,10/04/2019 00:00,48hrs to 96hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+993998,4,15/12/2018 00:00,0,Male_Neutered,Labradoodle,14.6,15/10/2019 00:00,4-7 days.,0,0,1,0,NonAntibiotic,GInutraceutical,1,0,0,1,1,No
+287713,0,27/11/2018 00:00,0,Male_Entire,Border Collie,NA,27/09/2019 00:00,Not Stated,0,0,0,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+878804,0,11/02/2019 00:00,0,Male_Entire,American Bulldog,32.4,13/12/2019 00:00,48hrs to 96hrs,0,0,0,0,Antibiotic,NoGInutraceutical,1,0,0,1,0,No
+49757,1,18/11/2018 00:00,0,Male_Entire,Shih-tzu,7.7,20/09/2019 00:00,Less than 24hrs,1,1,0,0,NonAntibiotic,GInutraceutical,1,1,1,1,0,No
+567041,4,12/09/2018 00:00,0,Male_Entire,Cockapoo,8.1,15/07/2019 00:00,48hrs to 96hrs,0,0,0,1,NonAntibiotic,GInutraceutical,0,1,0,1,0,No
+988312,4,07/06/2018 00:00,0,Male_Entire,Kerry Blue Terrier,14.2,08/04/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,0,No
+230266,1,04/06/2018 00:00,1,Female_Neutered,Crossbreed,6.2,10/04/2019 00:00,Less than 24hrs,1,1,0,0,Antibiotic,NoGInutraceutical,0,0,1,1,0,No
+124827,3,31/08/2018 00:00,0,Female_Entire,French Bulldog,8.3,08/07/2019 00:00,48hrs to 96hrs,1,0,0,1,Antibiotic,GInutraceutical,1,0,1,1,0,No
+186675,1,31/03/2018 00:00,1,Male_Neutered,English Springer Spaniel,16.2,06/02/2019 00:00,24hrs to 48hrs,0,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,0,0,No
+342889,1,15/05/2018 00:00,0,Female_Entire,Cavalier King Charles Spaniel,7.1,28/08/2019 00:00,Not Stated,1,1,0,0,Antibiotic,NoGInutraceutical,1,0,0,0,1,Yes
+229917,0,01/11/2018 00:00,1,Female_Neutered,English Bull Terrier,25,17/09/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,1,1,1,0,No
+414314,0,08/08/2018 00:00,0,Female_Entire,Yorkshire Terrier,3.5,27/06/2019 00:00,Not Stated,1,0,1,0,NonAntibiotic,GInutraceutical,0,1,1,1,0,No
+584390,4,22/08/2018 00:00,0,Female_Neutered,Labrador Retriever,22.6,11/07/2019 00:00,4-7 days.,0,0,0,0,Antibiotic,GInutraceutical,0,1,0,1,0,No
+753292,0,25/04/2018 00:00,0,Male_Neutered,Crossbreed,21.8,15/03/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,0,No
+689687,1,02/01/2019 00:00,0,Male_Entire,Welsh Springer Spaniel,18.9,29/10/2019 00:00,Less than 24hrs,0,1,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,1,No
+239852,0,13/12/2018 00:00,0,Male_Entire,Golden Retriever,30.1,06/11/2019 00:00,24hrs to 48hrs,0,1,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+789375,4,22/11/2018 00:00,0,Male_Neutered,French Bulldog,12.8,18/10/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,NoGInutraceutical,1,1,0,1,0,No
+989153,1,21/04/2018 00:00,1,Female_Neutered,Miniature Schnauzer,8.6,18/03/2019 00:00,24hrs to 48hrs,1,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,0,No
+542824,1,05/09/2018 00:00,1,Female_Neutered,Crossbreed,12,02/08/2019 00:00,Less than 24hrs,0,0,0,0,Antibiotic,GInutraceutical,0,0,0,1,1,No
+81604,0,06/04/2018 00:00,1,Male_Entire,Cavalier King Charles Spaniel,8.1,04/03/2019 00:00,48hrs to 96hrs,1,0,1,0,Antibiotic,GInutraceutical,1,0,0,1,0,No
+935873,4,18/11/2018 00:00,0,Female_Neutered,English Cocker Spaniel,9.3,21/10/2019 00:00,4-7 days.,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+425751,1,07/05/2018 00:00,0,Female_Entire,French Bulldog,NA,09/04/2019 00:00,Not Stated,0,0,0,0,Antibiotic,GInutraceutical,1,1,1,1,1,No
+291491,1,29/11/2018 00:00,1,Female_Entire,Cocker Spaniel,12.25,08/11/2019 00:00,24hrs to 48hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+318206,4,19/12/2018 00:00,0,Female_Neutered,Crossbreed,26.2,28/11/2019 00:00,48hrs to 96hrs,0,0,1,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+349640,0,04/08/2018 00:00,0,Female_Entire,Belgian Malinois Shepherd Dog,22.7,15/07/2019 00:00,Less than 24hrs,0,0,0,0,Antibiotic,NoGInutraceutical,0,0,0,1,0,No
+401341,0,16/10/2018 00:00,0,Male_Entire,Lhasa Apso,5.2,30/09/2019 00:00,24hrs to 48hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+635365,1,11/11/2018 00:00,0,Female_Entire,Working Cocker Spaniel,12,26/10/2019 00:00,4-7 days.,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,0,0,Yes
+90981,0,20/10/2018 00:00,0,Female_Entire,Rottweiler,NA,04/10/2019 00:00,24hrs to 48hrs,1,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,0,No
+726116,0,15/07/2018 00:00,1,Female_Entire,Italian Greyhound,4,30/06/2019 00:00,48hrs to 96hrs,0,0,0,0,Antibiotic,GInutraceutical,1,0,0,1,0,No
+850911,1,29/01/2018 00:00,1,Female_Neutered,Labradoodle,23.4,14/01/2019 00:00,24hrs to 48hrs,1,1,0,0,NonAntibiotic,NoGInutraceutical,1,0,1,1,0,No
+22825,1,15/01/2019 00:00,0,Female_Entire,King Charles Spaniel,7.5,02/01/2020 00:00,48hrs to 96hrs,1,1,0,1,Antibiotic,GInutraceutical,1,0,1,1,0,No
+597597,0,25/02/2018 00:00,1,Female_Neutered,Chow Chow,17.7,09/02/2019 00:00,Not Stated,1,1,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,0,No
+644494,2,18/12/2018 17:06,0,Female_Neutered,Husky,NA,06/12/2019 00:00,4-7 days.,0,1,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+287668,0,30/04/2018 00:00,0,Male_Entire,Crossbreed,NA,19/04/2019 00:00,24hrs to 48hrs,1,0,0,0,Antibiotic,NoGInutraceutical,0,0,1,0,0,Yes
+795142,0,05/02/2018 00:00,0,Male_Entire,Staffordshire Bull Terrier,19.1,28/01/2019 00:00,48hrs to 96hrs,0,0,0,0,Antibiotic,NoGInutraceutical,0,0,1,1,0,No
+503585,4,05/04/2018 00:00,0,Female_Neutered,English Springer Spaniel,12.6,29/03/2019 00:00,Less than 24hrs,1,1,0,0,Antibiotic,NoGInutraceutical,0,0,1,0,0,Yes
+864631,0,13/01/2018 00:00,0,Male_Entire,Crossbreed,NA,07/01/2019 00:00,Not Stated,1,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,0,0,Yes
+262291,3,25/06/2018 00:00,0,Female_Entire,Jagdterrier,5.5,17/06/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,0,No
+968352,0,19/02/2018 00:00,0,Female_Entire,Crossbreed,30,15/02/2019 00:00,48hrs to 96hrs,0,0,0,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+455492,1,27/04/2018 00:00,1,Male_Neutered,Brittany Spaniel,NA,25/04/2019 00:00,24hrs to 48hrs,1,0,0,1,Antibiotic,GInutraceutical,0,0,0,1,0,No
+929831,3,02/04/2018 00:00,0,Male_Entire,Shih-tzu,9.07,02/04/2019 00:00,Less than 24hrs,0,0,0,0,Antibiotic,NoGInutraceutical,0,0,1,1,1,No
+630062,0,16/10/2018 00:00,1,Male_Entire,German Shepherd Dog,33,16/10/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,1,0,1,1,No
+74194,2,05/06/2018 21:37,0,Male_Neutered,Crossbreed,NA,05/06/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,1,No
+234286,0,03/03/2018 00:00,0,Female_Entire,Maltese,NA,03/03/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,1,0,1,0,No
+666939,4,20/08/2018 00:00,0,Male_Entire,Pomeranian,NA,20/08/2019 00:00,48hrs to 96hrs,1,1,1,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,0,No
+459104,1,19/04/2018 00:00,1,Female_Neutered,Border Collie,18.2,23/04/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+261428,1,07/06/2018 00:00,1,Female_Neutered,Crossbreed,18.34,11/06/2019 00:00,Not Stated,0,0,0,0,Antibiotic,NoGInutraceutical,0,0,0,1,0,No
+104058,0,13/07/2018 00:00,0,Female_Entire,Yorkshire Terrier,1.65,18/07/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+809202,4,17/07/2018 00:00,0,Male_Entire,Cockapoo,11.8,23/07/2019 00:00,Less than 24hrs,0,0,0,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+381381,0,19/07/2018 00:00,0,Female_Neutered,Crossbreed,20.2,25/07/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+632339,0,27/09/2018 00:00,0,Male_Neutered,Crossbreed,5.21,11/10/2019 00:00,24hrs to 48hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+627115,0,06/12/2018 00:00,0,Male_Neutered,Crossbreed,6.5,20/12/2019 00:00,48hrs to 96hrs,1,1,0,0,Antibiotic,GInutraceutical,1,1,0,1,0,No
+166822,3,08/07/2018 00:00,1,Male_Entire,French Bulldog,15,25/07/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,0,0,Yes
+188528,0,14/10/2018 00:00,1,Female_Neutered,Crossbreed,3.8,08/11/2019 00:00,24hrs to 48hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+891422,0,29/05/2018 00:00,0,Male_Entire,German Shepherd Dog,31.2,26/06/2019 00:00,Less than 24hrs,1,1,1,0,Antibiotic,NoGInutraceutical,0,0,1,0,0,Yes
+118429,0,01/10/2018 00:00,0,Female_Neutered,Cockapoo,7.8,30/10/2019 00:00,Not Stated,0,0,1,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+477502,4,31/08/2018 00:00,1,Female_Neutered,English Cocker Spaniel,12.4,30/09/2019 00:00,24hrs to 48hrs,1,0,1,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,0,No
+558369,0,11/11/2018 00:00,1,Male_Entire,German Shepherd Dog,26.4,11/05/2019 00:00,24hrs to 48hrs,1,0,0,0,Antibiotic,NoGInutraceutical,0,1,1,1,1,No
+326326,1,15/06/2018 00:00,0,Male_Entire,Cockapoo,9.6,17/07/2019 00:00,48hrs to 96hrs,1,1,0,1,NonAntibiotic,GInutraceutical,1,1,1,1,0,No
+341518,0,05/11/2018 00:00,1,Female_Neutered,Crossbreed,NA,14/12/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,1,1,1,0,No
+562185,4,17/07/2018 00:00,0,Female_Neutered,Shih-tzu,NA,30/08/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+965945,1,22/02/2018 00:00,1,Male_Entire,Retriever,32,11/04/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,0,No
+706812,4,22/04/2018 00:00,0,Female_Neutered,Crossbreed,5.3,12/06/2019 00:00,4-7 days.,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+833436,0,07/09/2018 00:00,0,Female_Entire,Labrador Retriever,NA,30/10/2019 00:00,48hrs to 96hrs,1,1,0,0,Antibiotic,NoGInutraceutical,0,0,1,1,1,No
+206842,0,06/06/2018 00:00,0,Male_Entire,Crossbreed,9.6,30/07/2019 00:00,4-7 days.,0,1,0,0,Antibiotic,GInutraceutical,1,0,1,1,0,No
+355263,3,10/06/2018 00:00,1,Male_Entire,Yorkshire Terrier,NA,06/08/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,1,No
+714301,0,18/05/2018 00:00,1,Female_Neutered,Crossbreed,26.4,18/07/2019 00:00,48hrs to 96hrs,0,0,1,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+542201,1,23/11/2017 00:00,0,Male_Entire,British Bulldog ,27.1,23/01/2019 00:00,Not Stated,0,1,0,1,Antibiotic,GInutraceutical,1,0,0,1,1,No
+68521,4,13/01/2018 00:00,0,Male_Neutered,Labrador Retriever,27.4,18/03/2019 00:00,48hrs to 96hrs,0,0,0,0,Antibiotic,GInutraceutical,1,0,1,1,0,No
+393425,4,12/10/2018 00:00,0,Male_Entire,French Bulldog,12.4,18/12/2019 00:00,Less than 24hrs,1,1,0,0,Antibiotic,NoGInutraceutical,0,0,1,1,0,No
+461191,2,25/08/2018 00:00,0,Female_Entire,Goldendoodle,NA,02/11/2019 00:00,Less than 24hrs,1,1,0,0,Antibiotic,GInutraceutical,1,0,0,1,0,No
+405134,0,30/06/2018 00:00,0,Male_Entire,Labrador Retriever,25,11/09/2019 00:00,Not Stated,0,0,0,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+834651,4,05/03/2018 00:00,0,Male_Entire,Crossbreed,4.8,19/05/2019 00:00,48hrs to 96hrs,0,0,0,1,Antibiotic,NoGInutraceutical,1,0,0,1,0,No
+845896,0,22/05/2018 00:00,1,Female_Entire,American Bulldog,NA,03/08/2019 00:00,24hrs to 48hrs,1,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,0,No
+145573,1,09/03/2018 00:00,1,Male_Neutered,Shih-tzu,7.3,28/05/2019 00:00,24hrs to 48hrs,1,1,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,1,No
+601221,1,03/03/2018 00:00,0,Male_Entire,Welsh Corgi,17.75,24/05/2019 00:00,Less than 24hrs,1,1,1,0,Antibiotic,NoGInutraceutical,0,0,1,1,0,No
+626193,0,07/10/2018 00:00,0,Male_Neutered,English Setter,19.3,30/12/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,1,1,0,No
+902959,4,20/04/2018 00:00,0,Female_Neutered,Staffordshire Bull Terrier,NA,14/07/2019 00:00,48hrs to 96hrs,0,0,0,0,Antibiotic,NoGInutraceutical,0,0,1,0,1,Yes
+924408,3,09/08/2018 00:00,0,Female_Neutered,Cockapoo,7.8,31/10/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,0,No
+267941,0,21/06/2018 00:00,0,Female_Neutered,Sprocker,11.98,16/09/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+808353,1,09/05/2018 00:00,1,Female_Neutered,Miniature Poodle,NA,06/08/2019 00:00,4-7 days.,0,1,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,0,No
+761305,1,23/12/2017 00:00,0,Female_Entire,Standard Rottweiler,27.6,23/03/2019 00:00,Less than 24hrs,1,0,0,0,Antibiotic,GInutraceutical,1,0,1,1,0,No
+400351,0,24/07/2018 00:00,1,Female_Entire,Crossbreed,5,24/10/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,0,0,Yes
+43941,0,21/11/2017 00:00,1,Male_Neutered,Pug,6.39,23/02/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+829868,1,10/06/2018 00:00,1,Male_Entire,Pug,8.2,17/09/2019 00:00,4-7 days.,0,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,1,No
+700429,0,30/09/2017 00:00,0,Male_Neutered,Cairn Terrier,10.1,11/01/2019 00:00,24hrs to 48hrs,1,1,0,0,Antibiotic,GInutraceutical,1,0,1,0,0,Yes
+340196,0,04/11/2017 00:00,1,Male_Neutered,Crossbreed,11.6,15/02/2019 00:00,Not Stated,0,0,0,0,Antibiotic,GInutraceutical,1,0,0,1,0,No
+380277,4,03/08/2018 00:00,0,Male_Neutered,Crossbreed,29.7,16/11/2019 00:00,24hrs to 48hrs,0,0,0,1,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+149849,0,04/04/2018 00:00,0,Female_Neutered,Labrador Retriever,32.7,24/07/2019 00:00,Less than 24hrs,0,1,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+233040,1,27/03/2018 00:00,1,Male_Neutered,Labradoodle,NA,18/07/2019 00:00,48hrs to 96hrs,1,0,0,0,Antibiotic,GInutraceutical,0,0,1,1,0,No
+10957,1,07/07/2018 00:00,1,Male_Entire,Springer Spaniel - Unspecified,22.45,30/10/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+858822,3,19/10/2017 00:00,0,Male_Entire,Chow Chow,30.3,12/02/2019 00:00,48hrs to 96hrs,0,0,1,0,Antibiotic,GInutraceutical,0,1,0,1,0,No
+402434,4,11/05/2018 00:00,0,Female_Neutered,Yorkshire Terrier,3.96,12/09/2019 00:00,48hrs to 96hrs,1,1,0,0,NonAntibiotic,NoGInutraceutical,1,0,1,1,1,No
+923410,0,12/02/2018 00:00,1,Male_Entire,Chow Chow,32,18/06/2019 00:00,Not Stated,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+906522,2,18/07/2018 00:00,0,Male_Neutered,Crossbreed,NA,22/11/2019 00:00,24hrs to 48hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+460111,1,09/02/2018 00:00,0,Male_Neutered,Crossbreed,8.75,17/06/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,1,0,0,0,Yes
+767207,1,30/09/2017 00:00,0,Female_Entire,Crossbreed,20.8,06/02/2019 00:00,24hrs to 48hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,1,0,1,0,No
+261103,1,17/05/2018 00:00,0,Female_Neutered,Bulgarian Sheepdog,29.6,23/09/2019 00:00,4-7 days.,0,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,0,0,Yes
+277483,1,27/01/2018 00:00,1,Female_Neutered,Boxer,20.3,06/06/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,0,No
+199101,3,01/07/2018 00:00,1,Female_Neutered,Cockapoo,7.4,17/11/2019 00:00,Less than 24hrs,1,1,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+481252,0,01/03/2018 00:00,0,Female_Entire,Miniature Dachshund,7.79,18/07/2019 00:00,24hrs to 48hrs,0,0,0,0,Antibiotic,GInutraceutical,1,0,0,1,0,No
+819275,0,05/12/2017 00:00,0,Female_Entire,German Shepherd Dog,40,24/04/2019 00:00,48hrs to 96hrs,1,0,0,1,Antibiotic,NoGInutraceutical,0,0,0,1,0,No
+899736,1,10/08/2018 00:00,1,Female_Neutered,Golden Retriever,30.5,03/01/2020 00:00,4-7 days.,1,1,1,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+531602,1,20/06/2018 00:00,0,Female_Entire,Labrador Retriever,23.8,14/11/2019 00:00,4-7 days.,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+566292,0,13/04/2018 00:00,0,Male_Entire,Shih-tzu,5.18,09/09/2019 00:00,48hrs to 96hrs,1,1,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+466682,1,14/11/2017 00:00,1,Female_Neutered,Springer Spaniel - Unspecified,15.6,14/04/2019 00:00,Less than 24hrs,0,0,0,0,Antibiotic,NoGInutraceutical,0,0,1,1,0,No
+297080,0,15/02/2018 00:00,1,Male_Neutered,Labrador Retriever,NA,16/07/2019 00:00,24hrs to 48hrs,0,1,0,0,Antibiotic,GInutraceutical,1,0,0,1,0,No
+951693,1,17/06/2018 00:00,1,Female_Entire,German Short-Haired Pointer,20.25,19/11/2019 00:00,24hrs to 48hrs,0,1,0,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+479296,1,12/06/2018 00:00,0,Male_Neutered,Boston Terrier,NA,14/11/2019 00:00,24hrs to 48hrs,1,1,0,0,NonAntibiotic,NoGInutraceutical,1,0,1,1,0,No
+408991,0,26/12/2017 00:00,0,Male_Neutered,French Bulldog,12.7,03/06/2019 00:00,Less than 24hrs,0,0,0,0,Antibiotic,NoGInutraceutical,1,1,0,0,0,Yes
+848775,4,04/08/2017 00:00,0,Male_Neutered,Lurcher,NA,11/01/2019 00:00,4-7 days.,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+31136,3,17/11/2017 00:00,0,Male_Entire,Miniature Poodle,4,06/05/2019 00:00,Less than 24hrs,1,0,0,0,Antibiotic,GInutraceutical,0,0,1,1,0,No
+984215,0,19/09/2017 00:00,0,Male_Neutered,Pug,NA,14/03/2019 00:00,4-7 days.,0,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,1,No
+962525,3,23/08/2017 00:00,0,Female_Neutered,Staffordshire Bull Terrier,17.8,16/02/2019 00:00,24hrs to 48hrs,1,1,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,1,No
+300390,4,09/03/2018 00:00,0,Male_Neutered,British Bulldog ,27.8,01/06/2019 00:00,24hrs to 48hrs,1,1,0,0,NonAntibiotic,NoGInutraceutical,0,0,1,1,0,No
+246884,0,15/07/2017 00:00,0,Female_Entire,Crossbreed,9.6,10/01/2019 00:00,Less than 24hrs,1,0,0,1,Antibiotic,NoGInutraceutical,0,0,0,1,0,No
+895360,0,11/03/2018 00:00,1,Male_Neutered,Crossbreed,16.6,09/09/2019 00:00,48hrs to 96hrs,1,1,0,0,NonAntibiotic,GInutraceutical,1,0,1,0,0,Yes
+435973,4,29/01/2018 00:00,0,Female_Entire,Crossbreed,7.2,01/08/2019 00:00,Not Stated,0,0,1,0,NonAntibiotic,GInutraceutical,1,1,0,1,0,No
+545417,0,07/01/2018 00:00,0,Female_Neutered,Crossbreed,25.9,10/07/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,1,0,1,0,No
+498841,0,01/08/2017 00:00,0,Female_Entire,Chihuahua,NA,01/02/2019 00:00,Not Stated,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+263254,0,01/12/2017 00:00,0,Female_Entire,Chihuahua,NA,01/06/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,0,No
+651256,4,15/05/2018 00:00,1,Female_Neutered,Beagle,11.6,18/11/2019 00:00,Less than 24hrs,0,1,1,0,Antibiotic,NoGInutraceutical,0,1,1,1,0,No
+305357,1,06/08/2017 00:00,1,Male_Entire,Long-Haired Chihuahua,3.55,15/02/2019 00:00,Less than 24hrs,1,1,0,0,Antibiotic,GInutraceutical,0,0,1,1,0,No
+684296,4,17/09/2017 00:00,0,Female_Neutered,Miniature Schnauzer,7.4,29/03/2019 00:00,4-7 days.,1,1,0,0,Antibiotic,GInutraceutical,1,0,1,1,0,No
+364459,1,04/10/2017 00:00,0,Male_Entire,Cockapoo,13,26/04/2019 00:00,Less than 24hrs,1,1,0,0,Antibiotic,GInutraceutical,1,0,0,1,0,No
+135902,1,14/05/2018 00:00,1,Male_Neutered,Crossbreed,21.15,13/12/2019 00:00,24hrs to 48hrs,1,0,1,0,Antibiotic,GInutraceutical,1,0,0,1,0,No
+672852,0,28/12/2017 00:00,0,Male_Neutered,Crossbreed,7.85,09/08/2019 00:00,24hrs to 48hrs,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+359669,3,15/02/2018 00:00,0,Female_Entire,English Setter,22.8,28/09/2019 00:00,Not Stated,0,0,0,1,Antibiotic,GInutraceutical,0,0,0,1,0,No
+947489,4,05/01/2018 00:00,0,Male_Entire,Yorkshire Terrier,5.1,22/08/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+277587,2,20/02/2018 00:00,0,Female_Entire,Border Collie,NA,09/10/2019 00:00,24hrs to 48hrs,1,1,0,0,NonAntibiotic,NoGInutraceutical,0,0,1,1,0,No
+192994,0,21/07/2017 00:00,0,Male_Entire,Miniature English Bull Terrier,12.2,14/03/2019 00:00,Not Stated,0,0,0,0,Antibiotic,GInutraceutical,1,1,0,1,0,No
+910962,0,12/04/2018 00:00,0,Female_Entire,Crossbreed,4.7,05/12/2019 00:00,48hrs to 96hrs,0,0,0,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+671818,4,18/10/2017 00:00,0,Female_Neutered,Crossbreed,8.5,13/06/2019 00:00,24hrs to 48hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,1,No
+330559,3,06/10/2017 00:00,1,Male_Entire,Cockapoo,9.8,14/06/2019 00:00,Not Stated,0,0,0,0,Antibiotic,GInutraceutical,1,1,0,1,1,No
+972101,0,27/06/2017 00:00,1,Male_Neutered,Cavalier King Charles Spaniel,NA,07/03/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,1,0,0,0,Yes
+261817,0,21/08/2017 00:00,0,Male_Neutered,Crossbreed,NA,01/05/2019 00:00,Not Stated,1,1,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+821164,3,07/03/2018 00:00,0,Female_Entire,German Shepherd Dog,28.1,18/11/2019 00:00,24hrs to 48hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,1,0,1,0,No
+626136,3,27/09/2017 00:00,0,Male_Neutered,Labrador Retriever,34.2,11/06/2019 00:00,24hrs to 48hrs,1,1,0,0,NonAntibiotic,GInutraceutical,1,0,1,0,0,Yes
+385110,0,01/04/2018 00:00,0,Male_Neutered,Shetland Sheepdog,10.8,16/12/2019 00:00,48hrs to 96hrs,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,0,0,Yes
+974085,4,04/09/2017 00:00,1,Female_Neutered,Cavapoo,9.1,22/05/2019 00:00,48hrs to 96hrs,0,0,0,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+838127,1,21/03/2018 00:00,1,Female_Neutered,Boxer,32.2,11/12/2019 00:00,24hrs to 48hrs,1,0,1,0,NonAntibiotic,NoGInutraceutical,1,0,1,1,0,No
+45487,1,11/04/2017 00:00,1,Male_Neutered,Cockapoo,15.5,10/01/2019 00:00,4-7 days.,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+85416,0,01/11/2017 00:00,0,Female_Entire,Crossbreed,8.2,06/08/2019 00:00,48hrs to 96hrs,0,1,0,0,NonAntibiotic,GInutraceutical,1,1,0,1,0,No
+379261,0,16/10/2017 00:00,0,Female_Neutered,Chihuahua,2.65,22/07/2019 00:00,Less than 24hrs,0,1,0,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+98485,4,27/11/2017 00:00,0,Female_Neutered,German Shepherd Dog,NA,02/09/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,1,0,1,0,No
+142953,4,19/09/2017 00:00,0,Male_Entire,Rottweiler,42.8,26/06/2019 00:00,24hrs to 48hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+616038,1,27/03/2018 00:00,1,Male_Neutered,Briard,38.9,03/01/2020 00:00,48hrs to 96hrs,0,0,0,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+979001,0,18/12/2017 00:00,1,Male_Entire,Crossbreed,NA,29/09/2019 00:00,24hrs to 48hrs,1,1,0,0,Antibiotic,GInutraceutical,1,0,0,1,1,No
+558859,4,09/08/2017 00:00,0,Male_Entire,Cockapoo,9.1,23/05/2019 00:00,Not Stated,0,0,0,1,Antibiotic,NoGInutraceutical,0,0,0,1,0,No
+647341,4,12/06/2017 00:00,0,Female_Entire,Staffordshire Bull Terrier,17,26/03/2019 00:00,Less than 24hrs,0,1,1,0,NonAntibiotic,GInutraceutical,0,0,0,1,1,No
+805850,1,14/07/2017 00:00,1,Male_Neutered,Beagle,NA,30/04/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,0,1,Yes
+864079,0,17/05/2017 00:00,0,Male_Entire,Labrador Retriever,33,05/03/2019 00:00,Less than 24hrs,0,1,0,0,Antibiotic,NoGInutraceutical,0,0,1,1,0,No
+111516,0,19/09/2017 00:00,0,Male_Entire,Crossbreed,17.6,10/07/2019 00:00,24hrs to 48hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,1,0,1,0,No
+758757,4,30/09/2017 00:00,0,Female_Neutered,English Cocker Spaniel,15.3,22/07/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,0,No
+710969,3,08/02/2018 00:00,0,Female_Entire,German Shepherd Dog,34.55,05/12/2019 00:00,48hrs to 96hrs,0,0,0,0,Antibiotic,GInutraceutical,0,1,0,1,0,No
+183104,0,29/01/2018 00:00,0,Female_Neutered,Bichon Frise,7.2,29/11/2019 00:00,48hrs to 96hrs,1,1,0,0,NonAntibiotic,GInutraceutical,1,1,0,1,0,No
+617939,1,02/10/2017 00:00,0,Female_Neutered,Miniature Smooth-Haired Dachshund,5.29,03/08/2019 00:00,24hrs to 48hrs,1,0,0,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+569735,2,15/06/2017 11:46,1,Male_Neutered,Whippet,NA,18/04/2019 00:00,24hrs to 48hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+52812,4,10/05/2017 00:00,0,Female_Entire,Siberian Husky,19.8,17/03/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,0,No
+367366,0,12/05/2017 00:00,1,Female_Entire,Lhasa Apso,7.1,22/03/2019 00:00,Less than 24hrs,0,0,0,0,Antibiotic,GInutraceutical,1,0,0,1,0,No
+60475,3,27/09/2017 00:00,1,Female_Entire,Standard Doberman Pinscher,41.4,07/08/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,NoGInutraceutical,0,1,0,1,0,No
+963181,1,19/04/2017 00:00,0,Male_Entire,Crossbreed,NA,01/11/2019 00:00,24hrs to 48hrs,0,0,0,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+111041,1,25/06/2017 00:00,0,Not Recorded,Lhasa Apso,6.3,08/05/2019 00:00,48hrs to 96hrs,0,1,0,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+384479,1,03/04/2017 00:00,1,Male_Neutered,Miniature Smooth-Haired Dachshund,7.4,14/02/2019 00:00,24hrs to 48hrs,1,1,0,1,NonAntibiotic,GInutraceutical,1,0,1,1,1,No
+290375,0,02/04/2017 00:00,0,Male_Entire,Maltese,3.7,27/02/2019 00:00,Less than 24hrs,0,0,0,1,NonAntibiotic,GInutraceutical,1,0,1,1,1,No
+270713,0,13/02/2017 00:00,0,Male_Neutered,Labrador Retriever,31,11/01/2019 00:00,Less than 24hrs,1,0,0,0,Antibiotic,NoGInutraceutical,1,0,1,1,0,No
+146613,0,19/08/2017 00:00,1,Male_Neutered,Standard Dachshund,6.2,21/07/2019 00:00,48hrs to 96hrs,1,0,0,0,Antibiotic,GInutraceutical,0,1,1,0,0,Yes
+97870,4,06/07/2017 00:00,1,Male_Entire,French Bulldog,11.2,08/06/2019 00:00,Less than 24hrs,0,1,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+895843,1,01/03/2017 00:00,0,Male_Neutered,Lurcher,22.5,07/02/2019 00:00,24hrs to 48hrs,1,1,0,0,NonAntibiotic,GInutraceutical,1,0,1,0,0,Yes
+65794,0,01/05/2017 00:00,0,Male_Neutered,Chihuahua,1.14,10/04/2019 00:00,Less than 24hrs,1,0,0,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+787051,3,28/08/2017 00:00,1,Male_Entire,English Bull Terrier,32.2,10/08/2019 00:00,4-7 days.,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,1,0,0,Yes
+273520,0,30/09/2017 00:00,1,Male_Entire,Cavapoo,NA,17/09/2019 00:00,48hrs to 96hrs,1,1,0,1,Antibiotic,NoGInutraceutical,0,0,1,1,0,No
+649374,3,26/01/2017 00:00,0,Female_Entire,Crossbreed,25.3,14/01/2019 00:00,Less than 24hrs,0,0,1,1,Antibiotic,GInutraceutical,0,1,0,1,0,No
+823553,1,25/12/2017 00:00,0,Female_Neutered,Border Terrier,NA,13/12/2019 00:00,24hrs to 48hrs,0,1,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+120465,4,12/10/2017 00:00,0,Female_Neutered,Crossbreed,6,01/10/2019 00:00,24hrs to 48hrs,1,1,0,0,Antibiotic,GInutraceutical,0,0,1,1,0,No
+143934,3,06/08/2017 00:00,0,Female_Entire,Crossbreed,4.3,06/08/2019 00:00,Not Stated,1,1,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,0,No
+328358,1,15/06/2017 00:00,0,Male_Neutered,Fox Terrier,11,15/06/2019 00:00,24hrs to 48hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+347540,0,23/05/2017 00:00,0,Male_Entire,Yorkshire Terrier,3.4,24/05/2019 00:00,Not Stated,1,0,0,1,NonAntibiotic,GInutraceutical,0,0,0,1,1,No
+301921,1,06/04/2017 00:00,0,Female_Entire,Akita,NA,08/04/2019 00:00,Less than 24hrs,1,1,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+587957,0,26/08/2017 00:00,0,Female_Neutered,Crossbreed,NA,01/09/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+233997,1,03/08/2017 00:00,1,Female_Neutered,Crossbreed,NA,17/08/2019 00:00,24hrs to 48hrs,1,1,0,0,NonAntibiotic,NoGInutraceutical,1,0,1,1,0,No
+666352,0,30/06/2017 00:00,0,Female_Entire,Crossbreed,5.3,23/07/2019 00:00,48hrs to 96hrs,1,1,1,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+410248,0,15/06/2017 00:00,0,Female_Neutered,Crossbreed,3.1,09/07/2019 00:00,24hrs to 48hrs,1,0,1,0,Antibiotic,GInutraceutical,0,0,1,1,0,No
+245323,1,26/03/2017 00:00,1,Female_Entire,British Bulldog ,17.1,20/04/2019 00:00,24hrs to 48hrs,0,1,0,0,Antibiotic,NoGInutraceutical,1,0,0,1,0,No
+964372,0,03/08/2017 00:00,1,Female_Neutered,English Springer Spaniel,15.2,30/08/2019 00:00,48hrs to 96hrs,0,1,0,0,NonAntibiotic,GInutraceutical,1,1,0,1,0,No
+657054,2,03/05/2017 10:42,0,Male_Entire,Maltese,NA,30/05/2019 00:00,24hrs to 48hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+630010,1,22/04/2017 00:00,1,Male_Neutered,Crossbreed,8.15,20/05/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+241576,2,26/08/2017 10:26,0,Male_Entire,Cavalier King Charles Spaniel,NA,28/09/2019 00:00,48hrs to 96hrs,1,0,0,0,Antibiotic,GInutraceutical,0,0,1,1,0,No
+363638,0,20/01/2017 00:00,0,Female_Neutered,Crossbreed,20.8,25/02/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,1,No
+847957,1,30/04/2017 00:00,0,Female_Neutered,Airedale Terrier,NA,10/06/2019 00:00,48hrs to 96hrs,1,1,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,0,No
+566650,0,16/01/2017 00:00,0,Male_Neutered,French Bulldog,NA,08/03/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+433041,3,03/10/2017 00:00,1,Male_Entire,Standard Doberman Pinscher,30,26/11/2019 00:00,Less than 24hrs,0,0,0,0,Antibiotic,GInutraceutical,1,0,0,1,0,No
+975861,0,27/11/2016 00:00,1,Male_Neutered,Crossbreed,NA,25/01/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+342163,0,05/09/2017 00:00,0,Female_Entire,Lhasa Apso,8.5,04/11/2019 00:00,24hrs to 48hrs,1,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,0,No
+61821,0,14/05/2017 00:00,1,Female_Entire,Maltese,NA,15/07/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,1,No
+60710,4,10/06/2017 00:00,0,Female_Entire,Miniature Pinscher,4.6,13/08/2019 00:00,48hrs to 96hrs,1,1,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,1,No
+862387,0,12/03/2017 00:00,0,Female_Entire,Crossbreed,NA,21/05/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+27838,1,02/03/2017 00:00,1,Female_Neutered,Staffordshire Bull Terrier,16,13/05/2019 00:00,48hrs to 96hrs,1,1,1,0,Antibiotic,NoGInutraceutical,0,0,0,1,0,No
+144077,0,24/08/2017 00:00,0,Male_Entire,Crossbreed,4.9,07/11/2019 00:00,Not Stated,0,0,0,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+320756,1,15/12/2016 00:00,1,Male_Neutered,Shih-tzu,NA,02/03/2019 00:00,Not Stated,0,0,0,0,Antibiotic,GInutraceutical,0,0,1,1,0,No
+20227,3,07/08/2017 00:00,0,Female_Entire,Labrador Retriever,34.5,25/10/2019 00:00,Less than 24hrs,1,0,0,0,Antibiotic,NoGInutraceutical,1,1,0,1,0,No
+291200,0,03/09/2017 00:00,0,Male_Neutered,Crossbreed,23,22/11/2019 00:00,48hrs to 96hrs,1,0,0,0,Antibiotic,GInutraceutical,0,0,1,1,0,No
+991306,1,07/07/2017 00:00,1,Male_Neutered,Cockapoo,12,30/09/2019 00:00,4-7 days.,0,0,0,0,Antibiotic,NoGInutraceutical,0,0,0,1,1,No
+261104,0,14/06/2017 00:00,0,Female_Neutered,Crossbreed,6.6,11/09/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+860786,3,13/01/2017 00:00,1,Male_Entire,Maltese,4.5,13/04/2019 00:00,24hrs to 48hrs,1,0,0,0,Antibiotic,GInutraceutical,1,1,0,1,1,No
+849766,0,01/10/2017 00:00,0,Female_Entire,Labrador Retriever,24.6,31/12/2019 00:00,24hrs to 48hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+4513,0,29/08/2017 00:00,0,Male_Neutered,Crossbreed,NA,10/12/2019 00:00,24hrs to 48hrs,1,1,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+422683,1,08/01/2017 00:00,1,Female_Entire,German Shepherd Dog,30,23/04/2019 00:00,Not Stated,0,0,0,0,Antibiotic,GInutraceutical,0,1,0,1,0,No
+278950,4,25/02/2017 00:00,0,Female_Neutered,Cockapoo,15.2,12/06/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+702078,0,01/12/2016 00:00,0,Female_Neutered,Lhasa Apso,8,19/03/2019 00:00,48hrs to 96hrs,1,1,1,0,Antibiotic,NoGInutraceutical,1,0,1,1,0,No
+47530,0,04/11/2016 00:00,0,Female_Entire,Yorkshire Terrier,7.25,22/02/2019 00:00,24hrs to 48hrs,1,0,0,1,Antibiotic,GInutraceutical,1,0,0,1,0,No
+369426,1,01/05/2017 00:00,1,Male_Entire,Cocker Spaniel,11.2,19/08/2019 00:00,48hrs to 96hrs,0,1,1,0,NonAntibiotic,NoGInutraceutical,0,0,0,0,0,Yes
+990998,1,16/08/2017 00:00,1,Male_Neutered,German Short-Haired Pointer,26.1,05/12/2019 00:00,24hrs to 48hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+810120,4,17/05/2017 00:00,0,Male_Neutered,Chihuahua,3.1,11/09/2019 00:00,24hrs to 48hrs,0,1,0,0,Antibiotic,GInutraceutical,1,0,0,1,0,No
+384091,3,02/10/2016 00:00,0,Male_Neutered,Crossbreed,13.8,28/01/2019 00:00,48hrs to 96hrs,1,0,0,0,Antibiotic,GInutraceutical,1,1,1,1,1,No
+197097,1,12/04/2017 00:00,0,Male_Entire,Staffordshire Bull Terrier,18.75,09/08/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,0,No
+485084,3,07/02/2017 00:00,0,Male_Entire,Labrador Retriever,28.5,07/06/2019 00:00,Less than 24hrs,1,0,0,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+878764,0,03/03/2017 00:00,1,Male_Entire,English Cocker Spaniel,24.6,08/07/2019 00:00,4-7 days.,1,1,0,0,Antibiotic,GInutraceutical,1,0,1,1,0,No
+332667,0,20/08/2017 00:00,1,Male_Entire,French Bulldog,NA,29/12/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,0,No
+681622,1,15/10/2016 00:00,1,Male_Neutered,Standard Poodle,NA,26/02/2019 00:00,24hrs to 48hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,0,0,Yes
+878799,4,31/12/2016 00:00,0,Female_Entire,German Shepherd Dog,NA,15/05/2019 00:00,Less than 24hrs,1,0,1,0,Antibiotic,NoGInutraceutical,0,0,0,0,0,Yes
+11892,1,17/08/2016 00:00,1,Male_Neutered,Miniature Schnauzer,8.9,04/01/2019 00:00,4-7 days.,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+457159,3,26/01/2017 00:00,1,Male_Entire,German Shepherd Dog,34.65,15/06/2019 00:00,Not Stated,0,1,0,0,NonAntibiotic,GInutraceutical,0,1,1,1,0,No
+832035,4,13/01/2017 00:00,0,Male_Entire,Havanese,7.95,04/06/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+567614,3,04/10/2016 00:00,1,Female_Neutered,Australian Labradoodle,12.45,26/02/2019 00:00,24hrs to 48hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,0,0,Yes
+833324,3,27/01/2017 00:00,1,Male_Neutered,Cockapoo,NA,22/06/2019 00:00,Less than 24hrs,1,1,0,0,Antibiotic,NoGInutraceutical,0,0,1,1,0,No
+463136,1,20/10/2016 00:00,0,Female_Entire,Crossbreed,4.84,20/03/2019 00:00,48hrs to 96hrs,1,0,1,0,Antibiotic,NoGInutraceutical,1,0,1,0,0,Yes
+487529,4,09/11/2016 00:00,0,Female_Neutered,Long-Haired Chihuahua,5.1,15/04/2019 00:00,24hrs to 48hrs,1,1,0,0,Antibiotic,GInutraceutical,0,0,1,1,0,No
+926141,0,18/01/2017 00:00,0,Male_Neutered,Bedlington Terrier,10.7,25/06/2019 00:00,24hrs to 48hrs,1,0,0,0,Antibiotic,NoGInutraceutical,0,0,0,1,0,No
+548779,0,12/07/2017 00:00,0,Male_Neutered,Labrador Retriever,28.5,17/12/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+427092,1,06/05/2017 00:00,0,Female_Neutered,Labrador Retriever,28,12/10/2019 00:00,24hrs to 48hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+816501,4,18/09/2016 00:00,0,Female_Neutered,Crossbreed,7.1,27/02/2019 00:00,Less than 24hrs,1,0,1,0,NonAntibiotic,NoGInutraceutical,1,0,1,0,1,Yes
+24889,0,30/05/2017 00:00,1,Female_Neutered,Labrador Retriever,NA,08/11/2019 00:00,24hrs to 48hrs,1,1,0,0,Antibiotic,NoGInutraceutical,0,0,1,1,0,No
+93552,4,24/06/2017 00:00,1,Female_Neutered,Crossbreed,9.6,13/12/2019 00:00,24hrs to 48hrs,1,0,0,0,Antibiotic,NoGInutraceutical,0,0,1,1,0,No
+590101,0,22/11/2016 00:00,0,Male_Neutered,Beagle,NA,19/05/2019 00:00,48hrs to 96hrs,1,1,0,0,Antibiotic,NoGInutraceutical,0,0,1,1,0,No
+810534,0,21/01/2017 00:00,0,Female_Entire,Lurcher,16.6,21/07/2019 00:00,24hrs to 48hrs,0,1,0,0,Antibiotic,NoGInutraceutical,0,0,1,1,0,No
+617517,1,29/09/2016 00:00,0,Male_Neutered,Labrador Retriever,25.6,29/03/2019 00:00,24hrs to 48hrs,1,0,0,1,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+963569,0,20/08/2016 00:00,1,Female_Neutered,Crossbreed,NA,17/02/2019 00:00,Less than 24hrs,0,0,0,0,Antibiotic,GInutraceutical,0,0,1,1,0,No
+589108,1,01/09/2016 00:00,0,Male_Entire,Staffordshire Bull Terrier,16.8,02/03/2019 00:00,24hrs to 48hrs,1,1,0,0,Antibiotic,GInutraceutical,1,0,1,1,0,No
+85444,1,30/01/2017 00:00,0,Male_Neutered,Miniature Poodle,7,01/08/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,GInutraceutical,0,1,0,1,0,No
+608082,0,28/02/2017 00:00,0,Female_Entire,Cockapoo,13.9,31/08/2019 00:00,Less than 24hrs,1,1,0,1,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+778200,1,04/11/2016 00:00,1,Male_Neutered,Crossbreed,6.6,13/05/2019 00:00,4-7 days.,1,0,0,0,Antibiotic,NoGInutraceutical,1,0,0,0,0,No
+300252,1,03/11/2016 00:00,0,Male_Entire,American Bulldog,38.1,13/05/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,1,0,1,0,No
+118341,1,30/05/2017 00:00,0,Female_Entire,Lurcher,17,19/12/2019 00:00,Not Stated,1,0,0,0,Antibiotic,NoGInutraceutical,0,0,0,1,1,No
+459678,0,25/05/2017 00:00,0,Male_Entire,Crossbreed,7.4,16/12/2019 00:00,24hrs to 48hrs,0,1,0,0,NonAntibiotic,GInutraceutical,1,0,0,0,0,No
+557550,3,21/11/2016 00:00,0,Male_Entire,Crossbreed,14.6,22/06/2019 00:00,48hrs to 96hrs,1,0,0,1,Antibiotic,GInutraceutical,1,0,0,1,0,No
+264070,0,29/06/2016 00:00,1,Male_Neutered,Cockapoo,13.1,31/01/2019 00:00,Less than 24hrs,1,1,1,0,NonAntibiotic,GInutraceutical,1,0,0,1,1,No
+823368,4,26/01/2017 00:00,0,Female_Neutered,Cockapoo,13.4,02/09/2019 00:00,48hrs to 96hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,1,0,0,Yes
+223926,4,10/02/2017 00:00,0,Male_Neutered,Crossbreed,9.8,18/09/2019 00:00,4-7 days.,0,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,0,No
+361486,3,08/05/2017 00:00,0,Female_Entire,Cavapoo,6.24,19/12/2019 00:00,Less than 24hrs,1,1,1,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,0,No
+641446,1,18/04/2017 00:00,0,Female_Neutered,Crossbreed,10.9,05/12/2019 00:00,24hrs to 48hrs,1,1,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,0,No
+502142,2,09/02/2017 10:55,0,Male_Neutered,Crossbreed,NA,28/09/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+295000,4,18/07/2016 00:00,1,Male_Neutered,Labrador Retriever,NA,05/03/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,1,No
+933796,0,31/05/2016 00:00,0,Female_Entire,Pug,7.4,19/01/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,1,1,0,No
+651281,3,21/05/2016 00:00,0,Female_Entire,Springer Spaniel - Unspecified,12,10/01/2019 00:00,4-7 days.,0,0,0,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+549117,0,12/11/2016 00:00,1,Male_Entire,Field Spaniel,19.5,04/07/2019 00:00,48hrs to 96hrs,0,1,0,0,Antibiotic,NoGInutraceutical,1,0,1,1,0,No
+7377,0,31/10/2016 00:00,0,Female_Entire,Chihuahua,3.2,29/06/2019 00:00,24hrs to 48hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+598144,4,30/06/2016 00:00,0,Female_Entire,Bichon Frise,5.55,02/03/2019 00:00,Less than 24hrs,0,0,0,0,Antibiotic,GInutraceutical,0,0,0,1,1,No
+798465,1,04/04/2017 00:00,0,Male_Neutered,Lhasa Apso,9.6,06/12/2019 00:00,Less than 24hrs,1,1,0,0,Antibiotic,GInutraceutical,0,0,1,1,0,No
+345998,4,26/01/2017 00:00,0,Female_Neutered,Border Collie,19.5,02/10/2019 00:00,48hrs to 96hrs,0,0,0,0,Antibiotic,GInutraceutical,1,0,0,1,0,No
+728304,1,20/07/2016 00:00,1,Male_Neutered,Crossbreed,39.3,26/03/2019 00:00,Less than 24hrs,1,1,1,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+670094,0,15/11/2016 00:00,0,Male_Neutered,Labradoodle,34.3,23/07/2019 00:00,4-7 days.,1,1,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+487137,4,10/12/2016 00:00,0,Male_Neutered,Basset Hound,30.1,19/08/2019 00:00,Not Stated,0,0,0,0,Antibiotic,GInutraceutical,1,0,0,1,0,No
+252115,3,01/08/2016 00:00,0,Male_Neutered,Crossbreed,13.4,12/04/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+33801,2,07/09/2016 00:00,0,Female_Entire,Crossbreed,NA,22/05/2019 00:00,24hrs to 48hrs,0,1,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+105278,0,10/03/2017 00:00,0,Male_Neutered,Crossbreed,10.27,26/11/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+744235,1,15/03/2017 00:00,1,Female_Neutered,Flat Coated Retriever,27.6,03/12/2019 00:00,48hrs to 96hrs,1,0,0,1,NonAntibiotic,GInutraceutical,1,0,1,1,1,No
+51766,3,19/01/2017 00:00,1,Male_Entire,Scottish Rough Collie,20.6,14/10/2019 00:00,4-7 days.,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+406056,1,29/09/2016 00:00,0,Male_Neutered,Golden Retriever,37.4,25/06/2019 00:00,Not Stated,0,0,0,0,Antibiotic,NoGInutraceutical,0,0,0,1,0,No
+659998,2,30/05/2016 08:56,0,Male_Neutered,Lakeland Terrier,NA,26/02/2019 00:00,24hrs to 48hrs,1,1,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+888345,0,16/02/2017 00:00,0,Male_Neutered,Yorkshire Terrier,6.5,21/11/2019 00:00,24hrs to 48hrs,1,1,0,0,NonAntibiotic,GInutraceutical,1,1,0,1,0,No
+247017,1,18/06/2016 00:00,0,Female_Neutered,Staffordshire Bull Terrier,22.3,27/03/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,1,No
+557857,1,29/03/2016 00:00,0,Male_Neutered,Crossbreed,29.5,28/11/2019 00:00,Less than 24hrs,0,1,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+850375,3,04/09/2016 00:00,0,Female_Entire,Labrador Retriever,30.4,23/06/2019 00:00,Less than 24hrs,1,1,0,0,Antibiotic,GInutraceutical,0,0,1,1,0,No
+883100,1,06/04/2016 00:00,1,Female_Entire,Crossbreed,5.1,26/01/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,1,1,0,No
+269725,1,12/01/2017 00:00,1,Male_Neutered,Labrador Retriever,31.3,04/11/2019 00:00,24hrs to 48hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+459119,0,01/10/2016 00:00,0,Male_Entire,Crossbreed,4.3,06/08/2019 00:00,24hrs to 48hrs,1,0,1,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+599315,4,09/01/2017 00:00,0,Female_Neutered,Crossbreed,4,20/11/2019 00:00,Less than 24hrs,1,0,0,0,Antibiotic,NoGInutraceutical,0,0,1,1,0,No
+788717,4,02/06/2016 00:00,1,Female_Neutered,Crossbreed,10.95,13/04/2019 00:00,4-7 days.,0,1,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,0,0,Yes
+595684,0,04/01/2017 00:00,0,Female_Neutered,Crossbreed,11.3,24/11/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+175214,0,27/06/2016 00:00,1,Male_Neutered,Scottish Rough Collie,19.4,18/05/2019 00:00,Not Stated,0,0,0,0,Antibiotic,NoGInutraceutical,0,0,0,1,0,No
+395096,4,25/06/2016 00:00,0,Female_Entire,Shih-tzu,5.5,23/05/2019 00:00,24hrs to 48hrs,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+298368,3,27/10/2016 00:00,1,Female_Entire,Labrador Retriever,24.2,24/09/2019 00:00,24hrs to 48hrs,1,0,1,0,Antibiotic,NoGInutraceutical,0,0,1,0,0,No
+894088,3,04/12/2016 00:00,0,Male_Neutered,Crossbreed,21,12/11/2019 00:00,Not Stated,1,0,0,0,Antibiotic,NoGInutraceutical,1,0,1,1,0,No
+604758,4,13/08/2016 00:00,0,Female_Neutered,Short-Haired Chihuahua,3.9,24/07/2019 00:00,Not Stated,0,0,0,1,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+629910,3,17/06/2016 00:00,1,Female_Entire,Crossbreed,13.5,29/05/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+858084,0,17/08/2016 00:00,1,Male_Neutered,Pug,14,30/07/2019 00:00,48hrs to 96hrs,1,1,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,1,No
+429428,4,17/06/2016 00:00,0,Male_Entire,Shih-tzu,8.4,04/06/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+375051,0,02/02/2016 00:00,1,Female_Neutered,Cavapoo,NA,22/01/2019 00:00,Not Stated,1,0,0,0,Antibiotic,GInutraceutical,1,0,0,1,0,No
+159372,3,11/08/2016 00:00,1,Male_Neutered,Crossbreed,30,03/08/2019 00:00,4-7 days.,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,1,0,0,Yes
+25950,3,09/03/2016 00:00,0,Female_Entire,Yorkshire Terrier,6.45,04/03/2019 00:00,Not Stated,1,0,1,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+724894,0,30/10/2016 00:00,0,Female_Neutered,Maltese,2.6,26/10/2019 00:00,4-7 days.,0,0,1,0,Antibiotic,NoGInutraceutical,0,0,0,1,1,No
+478624,0,17/11/2016 00:00,0,Male_Entire,Crossbreed,20,17/11/2019 00:00,Less than 24hrs,0,0,0,0,Antibiotic,NoGInutraceutical,0,0,0,1,1,No
+936063,4,22/02/2016 00:00,0,Female_Neutered,Rhodesian Ridgeback,49,22/02/2019 00:00,Less than 24hrs,1,0,0,0,Antibiotic,NoGInutraceutical,0,0,1,1,0,No
+336605,3,05/01/2016 00:00,0,Male_Entire,Shih-tzu,NA,05/01/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,0,No
+787437,3,13/04/2016 00:00,1,Male_Neutered,Cockapoo,9.25,16/04/2019 00:00,48hrs to 96hrs,0,1,0,0,Antibiotic,GInutraceutical,1,0,1,1,0,No
+951533,0,05/09/2016 00:00,0,Male_Entire,Bichon Frise,6.1,13/09/2019 00:00,24hrs to 48hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,1,0,1,0,No
+616975,0,20/05/2016 00:00,1,Female_Neutered,Shih-tzu,4.6,01/06/2019 00:00,48hrs to 96hrs,0,0,0,0,Antibiotic,GInutraceutical,1,0,0,1,0,No
+397987,1,08/01/2016 00:00,0,Male_Neutered,Italian Greyhound,6,26/01/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,1,0,1,0,No
+634654,0,25/07/2016 00:00,1,Male_Entire,Labradoodle,NA,14/08/2019 00:00,48hrs to 96hrs,1,0,0,1,Antibiotic,GInutraceutical,1,1,0,1,0,No
+560199,0,11/08/2016 00:00,0,Male_Entire,Crossbreed,NA,05/09/2019 00:00,24hrs to 48hrs,0,0,0,0,Antibiotic,GInutraceutical,0,0,0,1,1,No
+897830,1,28/04/2016 00:00,0,Male_Entire,Staffordshire Bull Terrier,NA,23/05/2019 00:00,24hrs to 48hrs,1,0,1,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+845678,1,08/04/2016 00:00,1,Male_Neutered,Labrador Retriever,NA,20/05/2019 00:00,24hrs to 48hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+441953,1,29/09/2016 00:00,0,Male_Neutered,Cockapoo,12.4,11/11/2019 00:00,4-7 days.,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+643098,0,22/03/2016 00:00,0,Male_Neutered,Crossbreed,20.2,14/05/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,1,No
+392814,3,01/01/2016 00:00,1,Female_Neutered,Crossbreed,25.7,27/02/2019 00:00,48hrs to 96hrs,1,1,0,0,NonAntibiotic,NoGInutraceutical,0,0,1,1,0,No
+20315,0,25/12/2015 00:00,0,Male_Entire,German Shepherd Dog,26.8,20/02/2019 00:00,4-7 days.,1,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,1,1,0,No
+596648,3,15/02/2016 00:00,0,Male_Neutered,Lurcher,20.4,14/04/2019 00:00,24hrs to 48hrs,1,0,0,0,Antibiotic,NoGInutraceutical,1,0,1,1,0,No
+256277,4,15/09/2016 00:00,0,Male_Entire,Yorkshire Terrier,4.5,28/11/2019 00:00,Less than 24hrs,1,0,0,0,Antibiotic,GInutraceutical,0,0,1,1,0,No
+516676,4,01/06/2016 00:00,0,Female_Neutered,German Shepherd Dog,27.5,13/08/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+704677,0,20/05/2016 00:00,0,Male_Entire,Cavapoo,13.8,05/08/2019 00:00,24hrs to 48hrs,1,0,1,0,Antibiotic,GInutraceutical,1,0,0,1,0,No
+135273,1,15/06/2016 00:00,0,Male_Entire,Crossbreed,17,31/08/2019 00:00,48hrs to 96hrs,0,0,1,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+534904,1,10/11/2015 00:00,0,Female_Entire,Crossbreed,NA,29/01/2019 00:00,Less than 24hrs,1,1,0,0,NonAntibiotic,NoGInutraceutical,1,0,1,0,0,Yes
+947191,1,07/07/2016 00:00,1,Male_Neutered,German Shepherd Dog,40.75,27/09/2019 00:00,Less than 24hrs,1,0,1,0,Antibiotic,NoGInutraceutical,0,0,1,0,0,Yes
+655728,4,25/04/2016 00:00,0,Male_Entire,Jack Russell Terrier,7,20/07/2019 00:00,Not Stated,1,1,0,0,Antibiotic,NoGInutraceutical,1,1,1,1,0,No
+912583,0,12/10/2015 00:00,0,Male_Neutered,Labrador Retriever,34.2,05/01/2019 00:00,24hrs to 48hrs,1,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,1,1,0,No
+216713,0,08/12/2015 00:00,0,Female_Neutered,Crossbreed,5.6,06/03/2019 00:00,Less than 24hrs,0,0,0,0,Antibiotic,GInutraceutical,0,0,1,1,0,No
+420866,3,03/04/2016 00:00,0,Male_Entire,Beagle,14.9,06/07/2019 00:00,Less than 24hrs,1,1,1,0,Antibiotic,GInutraceutical,0,0,1,1,1,No
+872728,0,19/07/2016 00:00,0,Male_Neutered,Pug,7.99,26/10/2019 00:00,48hrs to 96hrs,1,1,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+426703,1,06/09/2016 00:00,1,Male_Entire,Labrador Retriever,28,18/12/2019 00:00,48hrs to 96hrs,1,0,0,0,Antibiotic,GInutraceutical,1,0,1,0,0,Yes
+969136,2,26/11/2015 15:53,0,Female_Neutered,Cockapoo,NA,19/03/2019 00:00,24hrs to 48hrs,1,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,1,1,0,No
+140767,0,26/01/2016 00:00,0,Female_Neutered,Crossbreed,5.7,23/05/2019 00:00,24hrs to 48hrs,1,1,0,1,Antibiotic,NoGInutraceutical,1,0,1,1,0,No
+95928,3,10/05/2016 00:00,1,Female_Neutered,Toy Poodle,4.5,12/09/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+373743,4,02/05/2016 00:00,1,Male_Neutered,Cockapoo,13.6,05/09/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+307772,0,23/08/2016 00:00,0,Female_Entire,Miniature Dachshund,6.13,29/12/2019 00:00,48hrs to 96hrs,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+782345,1,04/06/2016 00:00,0,Male_Neutered,Labrador Retriever,32,14/10/2019 00:00,48hrs to 96hrs,1,0,0,1,Antibiotic,GInutraceutical,0,0,1,1,1,No
+420458,0,05/08/2016 00:00,1,Female_Neutered,Cockapoo,NA,16/12/2019 00:00,24hrs to 48hrs,0,0,0,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+680467,2,23/04/2016 09:12,0,Female_Neutered,Crossbreed,NA,04/09/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+332870,1,10/10/2015 00:00,0,Female_Entire,Chihuahua,2.72,27/02/2019 00:00,Less than 24hrs,1,0,0,1,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+140722,0,02/03/2016 00:00,0,Female_Neutered,Yorkshire Terrier,7.8,24/07/2019 00:00,48hrs to 96hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+660970,0,09/11/2015 00:00,0,Female_Entire,Cavalier King Charles Spaniel,8.2,04/04/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+607642,3,25/05/2016 00:00,1,Male_Entire,Japanese Spitz,NA,21/10/2019 00:00,24hrs to 48hrs,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,1,0,0,Yes
+271849,1,04/10/2015 00:00,0,Male_Entire,Wire-Haired Fox Terrier,NA,06/03/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,1,0,0,Yes
+285545,0,31/07/2015 00:00,0,Male_Neutered,Shih-tzu,8.5,02/01/2019 00:00,Less than 24hrs,1,1,1,0,Antibiotic,GInutraceutical,1,0,0,1,0,No
+930752,4,07/07/2016 00:00,0,Female_Neutered,Shih-tzu,9.95,18/12/2019 00:00,4-7 days.,0,0,0,0,Antibiotic,NoGInutraceutical,1,1,0,0,0,Yes
+646054,1,24/12/2015 00:00,0,Male_Neutered,Cocker Spaniel,12.6,07/06/2019 00:00,24hrs to 48hrs,0,1,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+542566,0,24/10/2015 00:00,0,Female_Neutered,Crossbreed,39.6,24/04/2019 00:00,Not Stated,0,0,0,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+160245,1,15/10/2015 00:00,0,Female_Neutered,Greyhound,23.8,26/04/2019 00:00,48hrs to 96hrs,0,0,0,0,Antibiotic,NoGInutraceutical,0,0,0,1,0,No
+297804,3,17/08/2015 00:00,1,Female_Neutered,Labrador Retriever,28.1,26/02/2019 00:00,4-7 days.,0,0,0,0,Antibiotic,GInutraceutical,1,0,0,1,0,No
+702415,1,27/06/2015 00:00,1,Female_Neutered,Crossbreed,32.2,08/01/2019 00:00,Less than 24hrs,1,1,0,0,Antibiotic,NoGInutraceutical,0,0,1,0,0,Yes
+184802,1,31/12/2015 00:00,0,Male_Entire,Terrier,7.9,19/07/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,1,No
+368665,0,22/10/2015 00:00,0,Male_Neutered,English Springer Spaniel,NA,11/05/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,1,1,0,No
+649087,1,21/06/2015 00:00,1,Male_Neutered,German Shepherd Dog,NA,18/01/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,1,No
+963831,0,27/10/2015 00:00,1,Female_Neutered,Labrador Retriever,29.5,28/05/2019 00:00,48hrs to 96hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+754905,3,26/04/2016 00:00,0,Male_Entire,Cocker Spaniel,15,17/12/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,1,No
+407046,1,11/07/2015 00:00,0,Male_Entire,Lurcher,25.7,02/03/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+505548,1,10/06/2015 00:00,0,Female_Neutered,Labrador Retriever,27,08/02/2019 00:00,4-7 days.,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+832324,3,25/01/2016 00:00,0,Female_Entire,Long-Haired Chihuahua,4.25,29/09/2019 00:00,24hrs to 48hrs,0,1,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,0,No
+139221,3,28/07/2015 00:00,1,Female_Neutered,Labradoodle,21.6,10/04/2019 00:00,24hrs to 48hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,0,1,Yes
+810721,1,01/09/2015 00:00,0,Female_Neutered,Terrier,9.3,16/05/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,1,No
+870904,1,26/08/2015 00:00,0,Male_Neutered,Jack Russell Terrier,9.3,16/05/2019 00:00,48hrs to 96hrs,1,0,1,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+796287,3,15/04/2015 00:00,1,Female_Neutered,Crossbreed,16.68,04/01/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,1,No
+155909,4,16/02/2016 00:00,0,Male_Neutered,Cockapoo,NA,07/11/2019 00:00,48hrs to 96hrs,0,1,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+476706,1,21/10/2015 00:00,1,Female_Neutered,Crossbreed,20.1,16/07/2019 00:00,48hrs to 96hrs,0,0,0,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+527196,4,10/11/2015 00:00,1,Female_Neutered,English Cocker Spaniel,11.6,07/08/2019 00:00,24hrs to 48hrs,1,1,0,0,NonAntibiotic,GInutraceutical,0,0,1,0,0,Yes
+310907,1,13/01/2016 00:00,0,Female_Neutered,Cavalier King Charles Spaniel,10.55,13/10/2019 00:00,Less than 24hrs,1,0,0,0,Antibiotic,NoGInutraceutical,1,0,1,1,0,No
+317922,1,22/04/2015 00:00,0,Female_Neutered,Beagle,15.5,24/01/2019 00:00,24hrs to 48hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+13918,4,29/05/2015 00:00,0,Male_Neutered,Greyhound,25.2,07/03/2019 00:00,24hrs to 48hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+643104,1,16/12/2015 00:00,1,Female_Neutered,Crossbreed,NA,08/10/2019 00:00,Less than 24hrs,0,0,0,1,Antibiotic,GInutraceutical,0,0,0,1,0,No
+3372,0,01/10/2015 00:00,0,Male_Neutered,Border Collie,21.4,12/08/2019 00:00,Not Stated,1,0,0,0,Antibiotic,NoGInutraceutical,0,0,1,0,1,Yes
+743068,1,12/09/2015 00:00,1,Female_Neutered,Cockapoo,NA,05/08/2019 00:00,24hrs to 48hrs,1,1,0,0,NonAntibiotic,GInutraceutical,1,1,1,0,0,Yes
+437329,0,16/06/2015 00:00,0,Male_Entire,Miniature Schnauzer,7.2,10/05/2019 00:00,Not Stated,0,0,0,0,Antibiotic,NoGInutraceutical,0,0,0,1,1,No
+814046,3,01/09/2015 00:00,1,Male_Neutered,Crossbreed,15.65,30/07/2019 00:00,48hrs to 96hrs,0,1,0,0,Antibiotic,NoGInutraceutical,1,0,1,0,0,Yes
+599253,3,14/10/2015 00:00,1,Male_Neutered,Labrador Retriever,NA,17/09/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,1,No
+811107,1,22/06/2015 00:00,1,Male_Neutered,Crossbreed,48.9,29/07/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,1,No
+305568,4,06/04/2015 00:00,0,Female_Neutered,Labrador Retriever,31,19/03/2019 00:00,48hrs to 96hrs,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+542933,3,12/07/2015 00:00,0,Female_Neutered,Crossbreed,13.7,09/07/2019 00:00,48hrs to 96hrs,0,0,0,0,Antibiotic,NoGInutraceutical,1,0,0,1,0,No
+792644,1,28/12/2015 00:00,0,Male_Neutered,Jack Russell Terrier,7,28/12/2019 00:00,Less than 24hrs,1,0,1,0,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+537788,4,25/02/2015 00:00,0,Male_Entire,Pug,9.5,25/02/2019 00:00,24hrs to 48hrs,0,0,0,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+540621,0,29/05/2015 00:00,0,Male_Neutered,German Shepherd Dog,NA,20/07/2019 00:00,Not Stated,1,0,0,0,Antibiotic,NoGInutraceutical,0,0,1,1,0,No
+843676,1,08/08/2015 00:00,1,Male_Entire,Crossbreed,NA,12/08/2019 00:00,4-7 days.,0,1,0,1,NonAntibiotic,NoGInutraceutical,0,0,0,1,0,No
+299326,0,01/10/2015 00:00,0,Male_Neutered,English Springer Spaniel,NA,03/07/2019 00:00,48hrs to 96hrs,0,0,1,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+266599,0,22/07/2015 00:00,1,Male_Neutered,Crossbreed,29.4,06/08/2019 00:00,48hrs to 96hrs,1,0,0,1,NonAntibiotic,NoGInutraceutical,0,1,1,1,0,No
+15059,0,08/07/2015 00:00,0,Female_Entire,Brittany Spaniel,14,26/07/2019 00:00,24hrs to 48hrs,0,0,0,1,Antibiotic,GInutraceutical,0,0,0,1,0,No
+116354,3,12/07/2015 00:00,0,Female_Entire,Cavachon,7.7,06/08/2019 00:00,48hrs to 96hrs,0,1,0,0,Antibiotic,GInutraceutical,0,1,1,1,0,No
+724007,3,27/04/2015 00:00,0,Female_Entire,Crossbreed,NA,25/05/2019 00:00,Less than 24hrs,1,1,0,0,Antibiotic,NoGInutraceutical,0,0,1,1,0,No
+672294,3,05/08/2015 00:00,1,Male_Neutered,English Springer Spaniel,18.9,28/09/2019 00:00,Not Stated,1,0,1,0,NonAntibiotic,NoGInutraceutical,1,0,1,1,0,No
+430926,1,01/02/2015 00:00,1,Female_Neutered,Crossbreed,4.1,03/04/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+352582,1,13/10/2015 00:00,0,Female_Neutered,Cockapoo,NA,21/12/2019 00:00,Less than 24hrs,1,0,0,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+670997,0,13/07/2015 00:00,1,Female_Neutered,Cavapoo,7.7,30/09/2019 00:00,Less than 24hrs,1,1,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+579029,1,29/09/2015 00:00,0,Female_Neutered,Crossbreed,38.6,17/12/2019 00:00,Less than 24hrs,1,0,0,1,NonAntibiotic,NoGInutraceutical,0,0,0,1,0,No
+417654,1,26/12/2014 00:00,1,Male_Neutered,Crossbreed,10.4,24/03/2019 00:00,24hrs to 48hrs,1,1,0,0,Antibiotic,NoGInutraceutical,1,0,1,1,0,No
+871847,0,19/08/2015 00:00,0,Female_Neutered,Staffordshire Bull Terrier,NA,17/11/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,1,No
+489403,4,13/08/2015 00:00,0,Male_Neutered,Labrador Retriever,30.5,16/11/2019 00:00,Not Stated,1,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,1,No
+652693,3,12/12/2014 00:00,0,Male_Entire,Schnauzer,8.95,28/03/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,1,No
+267316,3,09/01/2015 00:00,0,Male_Neutered,Crossbreed,3.96,01/05/2019 00:00,Less than 24hrs,1,1,0,1,Antibiotic,NoGInutraceutical,0,0,1,1,1,No
+306035,3,19/01/2015 00:00,0,Male_Entire,Labrador Retriever,25.2,13/05/2019 00:00,24hrs to 48hrs,1,0,0,0,Antibiotic,GInutraceutical,1,0,0,1,0,No
+553150,1,24/05/2015 00:00,0,Female_Neutered,Crossbreed,3.45,19/09/2019 00:00,48hrs to 96hrs,1,1,0,1,Antibiotic,GInutraceutical,1,0,0,1,0,No
+89852,0,22/04/2015 00:00,0,Male_Neutered,Labrador Retriever,25,24/08/2019 00:00,48hrs to 96hrs,1,0,0,0,Antibiotic,NoGInutraceutical,0,0,1,1,0,No
+828714,4,13/07/2015 00:00,0,Female_Neutered,Crossbreed,NA,25/11/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+614362,1,15/01/2015 00:00,1,Male_Entire,Cavalier King Charles Spaniel,9.5,04/06/2019 00:00,Not Stated,0,0,0,0,Antibiotic,NoGInutraceutical,1,0,0,1,0,No
+574876,1,19/06/2015 00:00,1,Male_Entire,Cocker Spaniel,17.6,07/11/2019 00:00,24hrs to 48hrs,1,1,0,0,NonAntibiotic,NoGInutraceutical,0,0,1,1,0,No
+570341,1,14/04/2015 00:00,1,Male_Neutered,Cockapoo,20.4,10/09/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,0,1,Yes
+337134,3,21/11/2014 00:00,0,Male_Entire,Crossbreed,7.2,25/04/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,0,No
+60104,1,30/09/2014 00:00,1,Male_Entire,Cavalier King Charles Spaniel,14.8,13/03/2019 00:00,Less than 24hrs,1,1,0,0,NonAntibiotic,NoGInutraceutical,1,0,1,1,1,No
+736885,0,17/06/2015 00:00,0,Male_Neutered,Patterdale Terrier,13.2,07/12/2019 00:00,Not Stated,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+114976,3,06/06/2015 00:00,0,Male_Neutered,Cockapoo,NA,19/12/2019 00:00,Not Stated,1,0,0,0,Antibiotic,NoGInutraceutical,0,0,1,1,0,No
+152136,4,19/06/2014 00:00,0,Female_Neutered,Border Collie,25.3,10/01/2019 00:00,48hrs to 96hrs,1,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,1,1,0,No
+456569,1,06/10/2014 00:00,0,Female_Neutered,Labrador Retriever,30.6,30/04/2019 00:00,Less than 24hrs,1,1,0,0,Antibiotic,GInutraceutical,1,0,1,1,0,No
+368365,0,28/04/2015 00:00,1,Female_Neutered,Cockapoo,10.5,23/11/2019 00:00,Not Stated,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+311822,1,27/03/2015 00:00,0,Female_Neutered,Cockapoo,NA,23/10/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,1,No
+976848,4,20/07/2014 00:00,0,Female_Neutered,Shih-tzu,8,19/02/2019 00:00,4-7 days.,1,0,0,1,NonAntibiotic,GInutraceutical,0,0,0,1,1,No
+531348,0,20/01/2015 00:00,0,Male_Entire,Cavalier King Charles Spaniel,13.4,29/08/2019 00:00,Not Stated,0,0,1,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+249598,1,01/12/2014 00:00,0,Female_Entire,Crossbreed,8.5,18/07/2019 00:00,24hrs to 48hrs,1,1,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+944084,0,18/09/2014 00:00,0,Male_Entire,Crossbreed,NA,09/05/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,0,No
+234462,0,23/11/2014 00:00,0,Female_Neutered,German Shepherd Dog,45.3,23/07/2019 00:00,Less than 24hrs,0,0,1,0,Antibiotic,GInutraceutical,0,0,0,0,0,Yes
+868343,1,20/10/2014 00:00,0,Female_Neutered,Miniature Schnauzer,7.05,21/06/2019 00:00,24hrs to 48hrs,1,0,0,1,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+456397,1,04/09/2014 00:00,0,Male_Neutered,English Springer Spaniel,19.5,11/05/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,1,0,1,0,No
+254142,3,16/10/2014 00:00,1,Male_Neutered,Miniature Poodle,NA,04/07/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+811092,1,21/07/2014 00:00,1,Male_Neutered,Crossbreed,9,09/04/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,1,0,1,0,No
+125267,0,14/03/2015 00:00,1,Male_Neutered,Crossbreed,NA,01/12/2019 00:00,Less than 24hrs,0,0,0,0,Antibiotic,GInutraceutical,1,0,0,1,1,No
+679721,4,21/04/2014 00:00,0,Male_Neutered,Cavapoo,7.5,21/01/2019 00:00,Less than 24hrs,1,0,0,0,Antibiotic,GInutraceutical,1,0,1,1,0,No
+209631,3,02/11/2014 00:00,1,Female_Neutered,Labrador Retriever,26.1,07/08/2019 00:00,48hrs to 96hrs,1,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,0,No
+630418,3,25/06/2014 00:00,0,Male_Neutered,Portuguese Water Dog,17.6,05/04/2019 00:00,24hrs to 48hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,1,No
+540926,3,08/03/2015 00:00,0,Female_Neutered,Jack Russell Terrier,6.1,27/12/2019 00:00,24hrs to 48hrs,0,1,0,0,NonAntibiotic,NoGInutraceutical,1,0,1,1,0,No
+731344,1,23/10/2014 00:00,1,Female_Neutered,Miniature Smooth-Haired Dachshund,NA,14/08/2019 00:00,Less than 24hrs,1,0,0,0,Antibiotic,GInutraceutical,0,0,1,0,0,Yes
+386757,1,02/05/2014 00:00,0,Female_Neutered,Springer Spaniel - Unspecified,18.2,11/03/2019 00:00,24hrs to 48hrs,1,1,1,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+488010,4,25/07/2014 00:00,0,Male_Neutered,Labrador Retriever,36.15,10/06/2019 00:00,Not Stated,1,0,0,0,Antibiotic,NoGInutraceutical,1,0,1,1,0,No
+9899,4,30/06/2014 00:00,0,Female_Neutered,Staffordshire Bull Terrier,18,21/05/2019 00:00,Not Stated,0,1,0,0,Antibiotic,NoGInutraceutical,1,0,1,1,0,No
+626979,1,26/06/2014 00:00,1,Male_Neutered,Miniature Schnauzer,NA,26/05/2019 00:00,Less than 24hrs,0,1,0,0,NonAntibiotic,NoGInutraceutical,1,1,1,0,0,Yes
+762000,3,21/04/2014 00:00,0,Male_Entire,Crossbreed,6.15,25/03/2019 00:00,Less than 24hrs,1,1,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+697632,3,20/03/2014 00:00,0,Female_Entire,Greyhound,26.5,18/03/2019 00:00,4-7 days.,0,0,0,1,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+731109,1,20/04/2014 00:00,0,Female_Neutered,Shetland Sheepdog,11.8,20/04/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,1,No
+507359,0,05/02/2014 00:00,0,Male_Neutered,Crossbreed,18.4,05/02/2019 00:00,Not Stated,0,0,0,1,Antibiotic,GInutraceutical,1,0,1,0,0,Yes
+500000,0,28/02/2014 00:00,0,Female_Entire,Pug,NA,28/02/2019 00:00,Not Stated,0,0,0,0,Antibiotic,NoGInutraceutical,0,0,0,1,0,No
+457536,1,19/07/2014 00:00,0,Male_Neutered,Lhasa Apso,8.7,22/07/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+688502,0,15/03/2014 00:00,0,Male_Entire,Cockapoo,NA,25/03/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+477364,1,16/07/2014 00:00,0,Male_Neutered,Pekingese,6.3,30/07/2019 00:00,48hrs to 96hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+846099,1,01/04/2014 00:00,0,Female_Neutered,Toy Poodle,4,17/04/2019 00:00,24hrs to 48hrs,1,0,0,0,Antibiotic,NoGInutraceutical,0,0,0,1,0,No
+67483,1,31/03/2014 00:00,0,Male_Neutered,Crossbreed,32,18/04/2019 00:00,24hrs to 48hrs,0,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,1,No
+991876,3,23/09/2014 00:00,0,Female_Neutered,Pomeranian,7.1,16/10/2019 00:00,Less than 24hrs,1,0,0,0,Antibiotic,NoGInutraceutical,0,1,1,1,0,No
+799900,1,20/11/2014 00:00,0,Female_Neutered,German Shepherd Dog,NA,13/12/2019 00:00,24hrs to 48hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,0,1,Yes
+473571,3,01/03/2014 00:00,0,Female_Neutered,Crossbreed,5.3,03/04/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,1,No
+574536,1,01/09/2014 00:00,1,Female_Neutered,Crossbreed,NA,05/10/2019 00:00,24hrs to 48hrs,0,0,0,0,Antibiotic,NoGInutraceutical,0,0,0,1,0,No
+428085,3,24/11/2013 00:00,0,Male_Neutered,Crossbreed,35.2,07/01/2019 00:00,4-7 days.,1,1,0,1,Antibiotic,NoGInutraceutical,0,0,1,1,0,No
+546142,0,21/08/2014 00:00,1,Male_Neutered,Shih-tzu,7.6,09/10/2019 00:00,48hrs to 96hrs,1,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,1,1,0,No
+918566,3,29/07/2014 00:00,1,Male_Neutered,Yorkshire Terrier,4.1,18/09/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,1,0,1,1,No
+896114,0,31/01/2014 00:00,0,Male_Neutered,Staffordshire Bull Terrier,18.3,26/03/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,0,0,Yes
+901290,1,29/12/2013 00:00,0,Male_Neutered,Crossbreed,5.7,05/03/2019 00:00,48hrs to 96hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,0,1,Yes
+473011,3,03/11/2013 00:00,1,Female_Neutered,Cavapoo,10,09/01/2019 00:00,Not Stated,0,0,0,0,Antibiotic,NoGInutraceutical,0,1,0,1,0,No
+102715,1,28/02/2014 00:00,0,Female_Neutered,Akita,30,07/05/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,0,1,Yes
+627356,3,20/11/2013 00:00,0,Female_Entire,English Springer Spaniel,20,28/01/2019 00:00,48hrs to 96hrs,0,1,0,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+306390,3,16/04/2014 00:00,1,Female_Neutered,English Cocker Spaniel,14,28/06/2019 00:00,Less than 24hrs,1,0,1,1,Antibiotic,NoGInutraceutical,0,0,1,0,0,Yes
+395397,1,01/03/2014 00:00,0,Male_Neutered,Crossbreed,8.6,20/05/2019 00:00,48hrs to 96hrs,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+899310,1,28/04/2014 00:00,0,Male_Entire,Crossbreed,31.5,18/07/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,0,No
+474676,1,18/05/2014 00:00,0,Male_Neutered,Golden Retriever,36.2,16/08/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,0,0,Yes
+786672,3,19/06/2014 00:00,0,Male_Entire,Crossbreed,8.5,21/09/2019 00:00,Less than 24hrs,0,0,0,1,Antibiotic,GInutraceutical,0,0,0,1,0,No
+705755,1,25/06/2014 00:00,1,Female_Neutered,Cockapoo,10.7,03/10/2019 00:00,4-7 days.,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+42494,0,05/04/2014 00:00,1,Male_Neutered,West Highland White Terrier,8,23/07/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+458089,1,22/09/2013 00:00,0,Male_Neutered,Crossbreed,10.2,09/01/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+749001,4,08/02/2014 00:00,0,Female_Neutered,English Cocker Spaniel,NA,28/05/2019 00:00,24hrs to 48hrs,0,0,0,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+394382,4,07/04/2014 00:00,1,Male_Entire,Labrador Retriever,32.8,30/07/2019 00:00,24hrs to 48hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,0,0,Yes
+736721,3,07/07/2014 00:00,0,Male_Entire,Jack Russell Terrier,9,31/10/2019 00:00,48hrs to 96hrs,0,1,0,0,Antibiotic,NoGInutraceutical,1,1,0,1,0,No
+863794,4,17/09/2013 00:00,0,Female_Entire,Shih-tzu,NA,16/01/2019 00:00,48hrs to 96hrs,1,0,0,0,Antibiotic,NoGInutraceutical,0,0,0,1,0,No
+294355,1,29/01/2014 00:00,1,Female_Neutered,Working Cocker Spaniel,NA,12/06/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+113838,1,12/01/2014 00:00,0,Male_Neutered,Cairn Terrier,NA,18/06/2019 00:00,48hrs to 96hrs,1,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,0,No
+851068,0,16/10/2013 00:00,1,Female_Neutered,English Cocker Spaniel,NA,24/03/2019 00:00,24hrs to 48hrs,1,1,0,0,Antibiotic,GInutraceutical,0,0,1,1,0,No
+957301,3,21/03/2014 00:00,0,Female_Entire,Cockapoo,NA,01/09/2019 00:00,Not Stated,0,0,0,1,NonAntibiotic,NoGInutraceutical,1,0,0,1,0,No
+189888,4,22/02/2014 00:00,0,Male_Neutered,Crossbreed,20.8,12/08/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,GInutraceutical,0,1,0,1,0,No
+971872,1,03/01/2014 00:00,0,Male_Neutered,Crossbreed,20.85,02/07/2019 00:00,48hrs to 96hrs,1,0,1,1,Antibiotic,NoGInutraceutical,0,0,0,1,0,No
+220519,4,13/08/2013 00:00,0,Female_Entire,Crossbreed,11.5,21/02/2019 00:00,48hrs to 96hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+467318,1,05/08/2013 00:00,0,Male_Neutered,Shih-tzu,10.6,14/02/2019 00:00,Not Stated,1,0,0,0,Antibiotic,GInutraceutical,1,0,1,0,0,Yes
+87922,0,01/12/2013 00:00,0,Female_Neutered,English Cocker Spaniel,13.8,14/06/2019 00:00,4-7 days.,0,0,0,1,NonAntibiotic,NoGInutraceutical,0,0,1,1,0,No
+332496,3,10/07/2013 00:00,0,Female_Neutered,Crossbreed,25,22/01/2019 00:00,24hrs to 48hrs,1,0,0,0,Antibiotic,GInutraceutical,1,0,1,1,0,No
+31001,0,16/04/2014 00:00,0,Female_Entire,Jack Russell Terrier,6.5,30/10/2019 00:00,24hrs to 48hrs,1,1,0,1,Antibiotic,GInutraceutical,0,0,1,1,0,No
+488935,4,24/10/2013 00:00,0,Female_Neutered,German Shepherd Dog,42.5,10/05/2019 00:00,24hrs to 48hrs,1,0,1,0,Antibiotic,GInutraceutical,1,0,1,1,0,No
+637425,3,22/07/2013 00:00,1,Female_Entire,Crossbreed,NA,20/03/2019 00:00,Not Stated,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+479716,0,17/10/2013 00:00,0,Male_Entire,Shih-tzu,9.3,07/05/2019 00:00,Less than 24hrs,1,0,0,0,Antibiotic,NoGInutraceutical,0,0,1,1,0,No
+994879,1,29/08/2013 00:00,1,Female_Entire,Crossbreed,4.85,22/03/2019 00:00,24hrs to 48hrs,0,1,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+593488,1,08/07/2013 00:00,1,Female_Neutered,Lurcher,23.7,02/02/2019 00:00,48hrs to 96hrs,1,1,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+4857,1,09/10/2013 00:00,0,Male_Neutered,Yorkshire Terrier,9.2,09/05/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+150744,4,17/03/2014 00:00,0,Male_Neutered,Siberian Husky,41,16/10/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+347819,3,01/07/2013 00:00,0,Female_Entire,Crossbreed,NA,01/02/2019 00:00,24hrs to 48hrs,1,1,0,0,Antibiotic,NoGInutraceutical,0,0,1,1,0,No
+187235,4,20/07/2013 00:00,0,Male_Neutered,Chihuahua,3.6,21/02/2019 00:00,Not Stated,1,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,1,1,0,No
+156583,4,24/09/2013 00:00,0,Male_Neutered,Crossbreed,26,09/05/2019 00:00,48hrs to 96hrs,0,0,0,0,Antibiotic,GInutraceutical,1,0,0,1,0,No
+829693,4,16/06/2013 00:00,0,Male_Neutered,Cockapoo,NA,31/01/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,1,0,0,Yes
+868692,0,03/02/2014 00:00,1,Female_Neutered,Pomeranian,NA,19/10/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+338194,1,28/12/2013 00:00,0,Male_Entire,Lhasa Apso,11.8,16/09/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+675443,1,02/08/2013 00:00,1,Male_Neutered,Lurcher,24.3,23/04/2019 00:00,24hrs to 48hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,0,0,Yes
+673837,1,07/11/2013 00:00,0,Male_Entire,Cocker Spaniel,14.4,30/07/2019 00:00,4-7 days.,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+808162,0,30/01/2014 00:00,0,Male_Neutered,English Cocker Spaniel,17.3,23/10/2019 00:00,48hrs to 96hrs,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+718986,0,13/06/2013 00:00,0,Female_Neutered,Cavalier King Charles Spaniel,8.8,19/03/2019 00:00,24hrs to 48hrs,1,1,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+367375,4,28/09/2013 00:00,0,Male_Entire,Crossbreed,NA,08/07/2019 00:00,Not Stated,1,0,1,0,Antibiotic,NoGInutraceutical,0,0,1,1,0,No
+822010,4,22/10/2013 00:00,1,Female_Neutered,Shih-tzu,8.7,09/08/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,NoGInutraceutical,1,1,1,1,0,No
+247780,1,06/02/2014 00:00,0,Male_Neutered,Crossbreed,14.05,28/11/2019 00:00,4-7 days.,1,0,1,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+957364,2,31/12/2013 15:41,1,Male_Neutered,Crossbreed,NA,31/10/2019 00:00,4-7 days.,1,1,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,0,No
+40019,1,08/07/2013 00:00,0,Female_Entire,Greyhound,25.3,13/05/2019 00:00,4-7 days.,0,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,0,No
+745134,4,10/12/2013 00:00,0,Female_Neutered,Crossbreed,38.5,21/08/2019 00:00,48hrs to 96hrs,0,0,0,0,Antibiotic,NoGInutraceutical,0,0,0,1,0,No
+322424,1,26/03/2013 00:00,1,Female_Neutered,Shih-tzu,8.15,18/02/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,1,No
+771408,0,14/05/2013 00:00,0,Female_Neutered,Staffordshire Bull Terrier,27.8,12/04/2019 00:00,4-7 days.,0,0,0,0,NonAntibiotic,GInutraceutical,1,1,0,1,0,No
+458935,1,05/09/2013 00:00,0,Female_Neutered,Patterdale Terrier,10.7,15/08/2019 00:00,24hrs to 48hrs,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,0,1,Yes
+545696,3,23/06/2013 00:00,0,Female_Neutered,Labrador Retriever,40,10/06/2019 00:00,Less than 24hrs,1,1,0,0,NonAntibiotic,GInutraceutical,0,1,1,1,0,No
+171447,0,25/04/2013 00:00,0,Male_Neutered,Shih-tzu,9.6,16/04/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,1,0,0,Yes
+810720,3,26/07/2013 00:00,1,Male_Neutered,Labrador Retriever,46.05,17/07/2019 00:00,48hrs to 96hrs,1,1,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,1,No
+658600,4,24/02/2013 00:00,0,Male_Entire,Shih-tzu,10.8,21/02/2019 00:00,24hrs to 48hrs,1,1,0,0,Antibiotic,GInutraceutical,1,0,1,1,0,No
+864989,3,07/04/2013 00:00,0,Male_Entire,Cockapoo,12,05/04/2019 00:00,24hrs to 48hrs,0,0,0,0,Antibiotic,GInutraceutical,0,1,0,1,0,No
+6429,1,03/04/2013 00:00,0,Male_Entire,Collie,19.4,03/04/2019 00:00,24hrs to 48hrs,1,0,0,0,Antibiotic,GInutraceutical,0,0,1,1,0,No
+455936,0,22/02/2013 00:00,0,Male_Neutered,Labrador Retriever,29,22/02/2019 00:00,24hrs to 48hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+568023,0,28/01/2013 00:00,0,Male_Entire,Alaskan Malamute,56,28/01/2019 00:00,48hrs to 96hrs,0,0,0,0,Antibiotic,GInutraceutical,0,0,0,1,1,No
+806378,0,13/01/2013 00:00,0,Male_Entire,Crossbreed,NA,14/01/2019 00:00,48hrs to 96hrs,1,0,0,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+551432,1,28/05/2013 00:00,0,Female_Neutered,Saint Bernard,NA,29/05/2019 00:00,4-7 days.,0,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,1,No
+361265,0,05/02/2013 00:00,0,Male_Neutered,Chihuahua,3,07/02/2019 00:00,Less than 24hrs,0,0,0,0,Antibiotic,NoGInutraceutical,0,1,0,1,0,No
+172795,0,28/03/2013 00:00,0,Female_Entire,Bull Mastiff,51.5,30/03/2019 00:00,24hrs to 48hrs,0,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,1,No
+469043,1,28/02/2013 00:00,1,Male_Neutered,Labrador Retriever,NA,18/03/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,1,0,0,Yes
+10140,1,19/10/2013 00:00,0,Male_Neutered,Crossbreed,NA,11/11/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,0,No
+498176,0,29/11/2013 00:00,0,Female_Neutered,Miniature Schnauzer,NA,29/12/2019 00:00,Not Stated,1,0,0,0,Antibiotic,NoGInutraceutical,0,0,1,1,0,No
+515742,0,26/06/2013 00:00,1,Female_Neutered,German Shepherd Dog,NA,29/07/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,1,No
+627326,4,03/08/2013 00:00,0,Male_Neutered,Jack Russell Terrier,8.6,09/09/2019 00:00,4-7 days.,0,0,0,0,Antibiotic,NoGInutraceutical,0,0,0,1,0,No
+65295,4,25/03/2013 00:00,1,Male_Neutered,Spanish Water Dog,NA,03/05/2019 00:00,Less than 24hrs,0,0,0,0,Antibiotic,GInutraceutical,0,0,0,0,0,Yes
+882775,1,09/10/2013 00:00,1,Male_Neutered,Newfoundland,70.6,20/11/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,1,No
+556239,4,07/07/2013 00:00,0,Male_Neutered,Staffordshire Bull Terrier,20.8,23/08/2019 00:00,Not Stated,0,1,1,0,Antibiotic,NoGInutraceutical,0,0,0,1,0,No
+603334,3,08/04/2013 00:00,0,Female_Entire,Cavalier King Charles Spaniel,6.5,01/06/2019 00:00,48hrs to 96hrs,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,1,0,1,Yes
+274382,3,30/12/2012 00:00,1,Male_Entire,Weimaraner,36.7,24/02/2019 00:00,48hrs to 96hrs,1,1,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+702246,1,19/04/2013 00:00,0,Female_Entire,Labrador Retriever,NA,27/06/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,0,No
+563051,3,22/01/2013 00:00,0,Female_Neutered,Crossbreed,9.55,20/01/2019 00:00,24hrs to 48hrs,0,0,0,0,Antibiotic,NoGInutraceutical,0,0,1,1,0,No
+331543,0,04/06/2013 00:00,1,Female_Neutered,English Cocker Spaniel,18.4,17/09/2019 00:00,48hrs to 96hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,1,No
+102515,0,05/10/2012 00:00,0,Male_Entire,Yorkshire Terrier,2.95,27/01/2019 00:00,24hrs to 48hrs,0,1,1,0,Antibiotic,GInutraceutical,1,1,1,1,0,No
+779318,1,27/12/2012 00:00,0,Female_Neutered,King Charles Spaniel,8.75,23/04/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,1,No
+819453,0,01/11/2012 00:00,1,Female_Neutered,English Springer Spaniel,19.35,26/02/2019 00:00,Less than 24hrs,1,0,0,1,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+939376,2,19/11/2012 00:00,1,Female_Neutered,Dalmatian,NA,26/03/2019 00:00,Less than 24hrs,1,0,0,0,Antibiotic,NoGInutraceutical,0,0,1,1,0,No
+98179,4,12/03/2013 00:00,0,Male_Neutered,Labrador Retriever,33.6,18/07/2019 00:00,Not Stated,0,0,0,0,Antibiotic,GInutraceutical,1,0,0,1,0,No
+436074,3,14/05/2013 00:00,1,Male_Neutered,Miniature Goldendoodle,44,19/09/2019 00:00,24hrs to 48hrs,1,0,0,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+462497,1,07/10/2012 00:00,0,Female_Neutered,Shih-tzu,8.2,25/02/2019 00:00,24hrs to 48hrs,1,1,1,0,Antibiotic,GInutraceutical,0,0,1,1,0,No
+43956,0,04/06/2013 00:00,0,Female_Neutered,Crossbreed,9,25/10/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+177895,3,21/10/2012 00:00,0,Male_Entire,Crossbreed,29.8,18/03/2019 00:00,Less than 24hrs,1,0,0,0,Antibiotic,GInutraceutical,0,0,1,1,0,No
+670951,1,12/05/2013 00:00,1,Male_Neutered,Crossbreed,24.6,11/10/2019 00:00,24hrs to 48hrs,1,0,0,0,Antibiotic,GInutraceutical,0,0,0,1,1,No
+52757,3,26/02/2013 00:00,1,Female_Neutered,Crossbreed,NA,31/07/2019 00:00,24hrs to 48hrs,0,1,0,0,Antibiotic,GInutraceutical,1,0,0,0,0,Yes
+680368,3,10/11/2012 00:00,0,Female_Neutered,Weimaraner,29.9,18/04/2019 00:00,4-7 days.,1,0,0,0,Antibiotic,NoGInutraceutical,0,0,0,1,1,No
+121857,0,06/03/2013 00:00,0,Female_Neutered,Jack Russell Terrier,6.5,13/08/2019 00:00,Less than 24hrs,1,1,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+501259,1,05/10/2012 00:00,1,Male_Neutered,West Highland White Terrier,NA,16/03/2019 00:00,Less than 24hrs,0,0,1,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+629939,3,20/10/2012 00:00,1,Female_Neutered,Labrador Retriever,25.8,10/04/2019 00:00,48hrs to 96hrs,1,1,0,0,Antibiotic,NoGInutraceutical,1,0,1,1,0,No
+534478,1,14/04/2013 00:00,0,Male_Neutered,Border Terrier,11.7,05/10/2019 00:00,Less than 24hrs,1,0,0,0,Antibiotic,NoGInutraceutical,0,0,1,1,0,No
+754561,1,04/08/2012 00:00,1,Male_Entire,Crossbreed,11.3,31/01/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+81098,1,25/07/2012 00:00,1,Male_Neutered,Golden Retriever,37.9,21/01/2019 00:00,Not Stated,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+442930,1,26/09/2012 00:00,0,Male_Neutered,West Highland White Terrier,10,26/03/2019 00:00,48hrs to 96hrs,1,0,0,0,Antibiotic,NoGInutraceutical,0,0,1,1,0,No
+397424,4,22/03/2013 00:00,0,Female_Neutered,Jack Russell Terrier,7,09/10/2019 00:00,Not Stated,0,0,0,1,Antibiotic,GInutraceutical,1,0,0,1,0,No
+623527,4,22/09/2012 00:00,0,Male_Neutered,Whippet,NA,11/04/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,1,No
+208356,0,11/10/2012 00:00,0,Male_Neutered,Lhasa Apso,NA,01/05/2019 00:00,Not Stated,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+164104,1,06/08/2012 00:00,0,Male_Neutered,Border Collie,22.1,27/02/2019 00:00,4-7 days.,0,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,1,No
+446993,0,03/05/2013 00:00,0,Female_Neutered,Cockapoo,NA,15/08/2019 00:00,4-7 days.,0,0,0,0,Antibiotic,GInutraceutical,0,1,0,1,0,No
+449374,1,14/01/2013 00:00,0,Female_Neutered,Labrador Retriever,NA,02/09/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,0,No
+616597,4,05/03/2013 00:00,1,Male_Neutered,Beagle,NA,23/10/2019 00:00,4-7 days.,1,1,1,0,Antibiotic,NoGInutraceutical,0,0,1,0,0,Yes
+768984,0,28/09/2012 00:00,1,Male_Neutered,Crossbreed,16,16/04/2019 00:00,Not Stated,1,1,0,0,Antibiotic,NoGInutraceutical,1,0,1,0,0,Yes
+131554,1,12/07/2012 00:00,1,Male_Neutered,Golden Retriever,29,04/03/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+806560,0,17/07/2012 00:00,0,Female_Neutered,Siberian Husky,22.8,20/03/2019 00:00,4-7 days.,1,0,0,0,Antibiotic,NoGInutraceutical,1,0,0,1,0,No
+773536,4,25/03/2013 00:00,0,Female_Neutered,Cavalier King Charles Spaniel,8.7,30/11/2019 00:00,Less than 24hrs,0,0,0,0,Antibiotic,GInutraceutical,1,0,0,1,0,No
+13313,4,08/08/2012 00:00,0,Male_Neutered,Lurcher,22.7,15/04/2019 00:00,4-7 days.,1,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,1,1,0,No
+5910,1,15/10/2012 00:00,1,Male_Neutered,Cockapoo,11.65,25/06/2019 00:00,24hrs to 48hrs,1,1,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+289957,1,22/05/2012 00:00,0,Male_Entire,Maltese,NA,01/02/2019 00:00,48hrs to 96hrs,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+510220,4,18/11/2012 00:00,0,Male_Neutered,German Shepherd Dog,NA,07/08/2019 00:00,Not Stated,0,0,1,0,Antibiotic,NoGInutraceutical,0,0,0,1,1,No
+142329,0,18/05/2012 00:00,1,Female_Neutered,Labrador Retriever,31.5,14/02/2019 00:00,24hrs to 48hrs,1,0,0,0,Antibiotic,NoGInutraceutical,0,0,1,1,0,No
+638198,3,03/01/2013 00:00,1,Female_Neutered,Labrador Retriever,23.4,14/10/2019 00:00,Less than 24hrs,1,1,0,1,Antibiotic,NoGInutraceutical,1,0,1,1,0,No
+248305,1,22/05/2012 00:00,0,Female_Entire,Bernese Mountain Dog,43.1,06/03/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,GInutraceutical,0,1,0,1,0,No
+222369,3,02/11/2012 00:00,0,Male_Neutered,Greyhound,33.15,23/08/2019 00:00,48hrs to 96hrs,1,0,0,0,Antibiotic,NoGInutraceutical,1,1,0,1,0,No
+624875,4,29/09/2012 00:00,0,Female_Neutered,Labrador Retriever,NA,25/07/2019 00:00,Not Stated,0,1,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,1,No
+38177,0,25/06/2012 00:00,0,Female_Entire,Yorkshire Terrier,6.4,25/04/2019 00:00,Less than 24hrs,1,1,0,0,Antibiotic,NoGInutraceutical,0,0,1,1,0,No
+336393,3,01/07/2012 00:00,0,Female_Neutered,Miniature Schnauzer,6.45,03/05/2019 00:00,24hrs to 48hrs,1,0,0,0,Antibiotic,NoGInutraceutical,1,0,1,1,1,No
+594223,3,04/10/2012 00:00,0,Male_Entire,Miniature Smooth-Haired Dachshund,7.5,15/08/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,1,No
+67446,3,01/12/2012 00:00,0,Female_Neutered,Crossbreed,22.6,16/10/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+22269,3,21/03/2012 00:00,0,Female_Entire,Labrador Retriever,40,08/02/2019 00:00,4-7 days.,1,1,0,0,NonAntibiotic,GInutraceutical,1,0,1,0,0,Yes
+224515,0,06/04/2012 00:00,0,Male_Entire,Chihuahua,5.1,26/02/2019 00:00,48hrs to 96hrs,1,0,0,0,NonAntibiotic,GInutraceutical,0,1,1,1,0,No
+810029,4,17/01/2013 00:00,0,Female_Entire,Staffordshire Bull Terrier,36.1,23/12/2019 00:00,Not Stated,0,1,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+720361,1,23/04/2012 00:00,0,Male_Neutered,Staffordshire Bull Terrier,19,08/04/2019 00:00,Less than 24hrs,0,0,0,1,Antibiotic,GInutraceutical,1,0,0,1,0,No
+780529,3,23/08/2012 00:00,0,Male_Neutered,Crossbreed,5.6,10/08/2019 00:00,Not Stated,0,0,1,0,Antibiotic,NoGInutraceutical,1,1,0,1,0,No
+515750,0,04/12/2012 00:00,0,Male_Entire,Lhasa Apso,NA,04/12/2019 00:00,Less than 24hrs,1,0,0,0,Antibiotic,GInutraceutical,0,0,1,1,0,No
+688972,0,01/07/2012 00:00,0,Male_Entire,Labrador Retriever,NA,04/07/2019 00:00,4-7 days.,0,0,1,0,Antibiotic,NoGInutraceutical,0,0,0,1,0,No
+480288,4,29/05/2012 00:00,0,Female_Neutered,Cockapoo,11.25,03/06/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,1,0,1,1,No
+760679,3,20/06/2012 00:00,0,Male_Neutered,Jack Russell Terrier,9.8,08/07/2019 00:00,Less than 24hrs,1,1,0,1,Antibiotic,GInutraceutical,0,1,1,1,0,No
+364402,0,25/01/2012 00:00,0,Male_Entire,Greyhound,34,15/02/2019 00:00,4-7 days.,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,0,0,Yes
+418742,0,10/10/2012 00:00,0,Male_Neutered,Cockapoo,11.6,08/08/2019 00:00,48hrs to 96hrs,0,0,0,1,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+361818,0,23/03/2012 00:00,0,Male_Neutered,Crossbreed,NA,18/04/2019 00:00,Less than 24hrs,1,1,0,0,NonAntibiotic,NoGInutraceutical,1,0,1,1,0,No
+650752,1,04/07/2012 00:00,0,Female_Entire,Border Collie,17.3,31/07/2019 00:00,48hrs to 96hrs,1,0,0,0,Antibiotic,GInutraceutical,0,0,1,1,0,No
+321391,3,06/04/2012 00:00,0,Female_Entire,Labrador Retriever,29.3,08/05/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+122478,3,20/09/2012 00:00,0,Male_Entire,Beagle,NA,28/10/2019 00:00,24hrs to 48hrs,1,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,0,No
+423540,3,23/03/2012 00:00,1,Female_Neutered,English Springer Spaniel,30,07/05/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+33256,0,22/03/2012 00:00,0,Male_Entire,French Bulldog,14.6,10/05/2019 00:00,48hrs to 96hrs,1,0,0,0,Antibiotic,NoGInutraceutical,1,0,1,1,1,No
+704143,4,08/06/2012 00:00,0,Male_Entire,Shih-tzu,8.9,09/08/2019 00:00,Less than 24hrs,1,1,1,0,NonAntibiotic,NoGInutraceutical,0,0,1,0,0,Yes
+612587,0,07/01/2012 00:00,1,Male_Neutered,Border Collie,NA,11/03/2019 00:00,Less than 24hrs,1,1,0,0,Antibiotic,GInutraceutical,1,0,0,1,0,No
+288586,0,10/12/2011 00:00,0,Female_Neutered,Jack Russell Terrier,3,13/02/2019 00:00,Less than 24hrs,1,0,0,1,Antibiotic,NoGInutraceutical,0,0,0,1,0,No
+800656,3,15/10/2011 00:00,0,Male_Entire,Crossbreed,12.7,04/01/2019 00:00,24hrs to 48hrs,1,0,0,0,Antibiotic,GInutraceutical,0,0,1,1,0,No
+922738,4,08/08/2012 00:00,1,Male_Neutered,Basset Hound,33,01/11/2019 00:00,Not Stated,0,0,0,0,Antibiotic,GInutraceutical,0,0,1,1,0,No
+591212,2,11/10/2011 11:47,1,Male_Entire,Crossbreed,NA,05/01/2019 00:00,Less than 24hrs,1,1,0,0,Antibiotic,GInutraceutical,1,1,1,0,0,Yes
+695673,1,19/08/2012 00:00,1,Female_Neutered,Russell Terrier,12.6,19/11/2019 00:00,48hrs to 96hrs,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,1,0,0,Yes
+273547,0,18/04/2012 00:00,0,Female_Neutered,Portuguese Water Dog,NA,17/08/2019 00:00,Less than 24hrs,0,0,0,1,Antibiotic,GInutraceutical,1,0,0,1,0,No
+886975,4,10/02/2012 00:00,0,Male_Entire,Crossbreed,33.5,11/06/2019 00:00,4-7 days.,0,0,0,0,NonAntibiotic,GInutraceutical,0,1,0,1,0,No
+609257,1,01/01/2012 00:00,0,Female_Neutered,Border Collie,18.1,07/05/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,1,No
+659893,1,05/03/2012 00:00,0,Female_Neutered,Crossbreed,22.3,11/07/2019 00:00,48hrs to 96hrs,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,0,0,Yes
+232665,3,10/10/2011 00:00,0,Female_Neutered,Boxer,29.3,15/02/2019 00:00,4-7 days.,0,0,0,0,Antibiotic,GInutraceutical,0,1,0,1,0,No
+177783,1,19/04/2012 00:00,1,Female_Neutered,Crossbreed,8.05,27/08/2019 00:00,48hrs to 96hrs,0,0,0,1,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+439088,1,25/01/2012 00:00,0,Female_Neutered,Whippet,11.4,04/06/2019 00:00,Less than 24hrs,0,0,1,1,Antibiotic,GInutraceutical,1,0,1,0,0,Yes
+978893,4,01/10/2011 00:00,0,Male_Neutered,German Shepherd Dog,39,11/02/2019 00:00,48hrs to 96hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+390119,0,19/10/2011 00:00,1,Male_Neutered,French Bulldog,NA,04/03/2019 00:00,48hrs to 96hrs,1,1,0,1,Antibiotic,GInutraceutical,1,0,0,1,0,No
+569499,3,13/06/2012 00:00,0,Male_Neutered,Labrador Retriever,36.8,14/11/2019 00:00,48hrs to 96hrs,1,1,0,0,Antibiotic,NoGInutraceutical,0,0,0,1,0,No
+623368,4,10/03/2012 00:00,0,Male_Neutered,Crossbreed,8.9,16/08/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,1,0,1,1,No
+879403,1,14/05/2012 00:00,0,Male_Neutered,Crossbreed,19.3,21/10/2019 00:00,Less than 24hrs,1,1,0,0,NonAntibiotic,NoGInutraceutical,0,0,1,1,0,No
+931142,4,28/06/2012 00:00,0,Male_Entire,Chihuahua,4.3,09/12/2019 00:00,24hrs to 48hrs,0,1,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+37348,1,10/11/2011 00:00,1,Male_Neutered,Labradoodle,42.5,12/10/2019 00:00,4-7 days.,1,0,0,0,Antibiotic,GInutraceutical,1,0,0,0,0,No
+802375,0,04/10/2011 00:00,0,Female_Neutered,Crossbreed,NA,30/03/2019 00:00,Not Stated,0,1,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+964896,1,17/10/2011 00:00,0,Male_Neutered,Cocker Spaniel,11.1,26/04/2019 00:00,4-7 days.,0,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,1,No
+962952,0,26/07/2011 00:00,0,Female_Neutered,Cavalier King Charles Spaniel,12,18/02/2019 00:00,48hrs to 96hrs,0,0,0,0,Antibiotic,NoGInutraceutical,1,0,1,1,0,No
+986374,1,16/03/2012 00:00,0,Male_Neutered,Jack Russell Terrier,5.9,24/10/2019 00:00,24hrs to 48hrs,0,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,1,No
+244611,3,07/11/2011 00:00,0,Female_Neutered,Miniature Schnauzer,9.25,28/06/2019 00:00,48hrs to 96hrs,1,0,0,0,Antibiotic,NoGInutraceutical,1,0,1,1,0,No
+801636,4,07/10/2011 00:00,0,Male_Neutered,Crossbreed,8.7,24/06/2019 00:00,Not Stated,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,0,0,Yes
+949352,3,08/10/2011 00:00,0,Female_Neutered,English Springer Spaniel,NA,26/06/2019 00:00,24hrs to 48hrs,1,0,0,1,Antibiotic,GInutraceutical,0,0,0,1,1,No
+588419,3,03/06/2011 00:00,0,Female_Entire,Cockapoo,8.4,01/03/2019 00:00,24hrs to 48hrs,1,0,0,0,Antibiotic,NoGInutraceutical,0,1,0,1,0,No
+948231,3,11/06/2011 00:00,1,Female_Neutered,Schnauzer,9.75,08/05/2019 00:00,Not Stated,0,0,0,0,Antibiotic,GInutraceutical,0,0,0,0,1,Yes
+836672,1,25/05/2011 00:00,1,Female_Neutered,Pembroke Welsh Corgi,14.8,21/02/2019 00:00,48hrs to 96hrs,0,0,0,0,Antibiotic,GInutraceutical,1,0,0,1,0,No
+619234,0,22/06/2011 00:00,0,Female_Neutered,Tibetan Terrier,NA,21/03/2019 00:00,Less than 24hrs,1,0,0,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+862827,0,30/12/2011 00:00,1,Female_Neutered,Crossbreed,NA,29/07/2019 00:00,Not Stated,1,1,0,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+935375,3,29/04/2011 00:00,1,Male_Neutered,Hungarian Vizsla,27.4,30/01/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,NoGInutraceutical,1,1,0,1,0,No
+512590,1,16/10/2011 00:00,1,Male_Neutered,Crossbreed,18.75,22/07/2019 00:00,Less than 24hrs,1,0,0,0,Antibiotic,GInutraceutical,0,0,1,0,0,Yes
+595704,1,06/01/2012 00:00,0,Male_Neutered,Crossbreed,14.7,17/10/2019 00:00,Less than 24hrs,1,1,0,0,NonAntibiotic,GInutraceutical,0,0,1,0,1,Yes
+969872,1,01/11/2011 00:00,1,Male_Neutered,Crossbreed,NA,28/08/2019 00:00,48hrs to 96hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,1,0,0,Yes
+816944,0,07/05/2011 00:00,1,Male_Neutered,Shih-tzu,10.7,15/03/2019 00:00,24hrs to 48hrs,1,1,0,0,Antibiotic,GInutraceutical,1,0,1,1,1,No
+389923,4,05/09/2011 00:00,0,Female_Neutered,Staffordshire Bull Terrier,25.5,15/07/2019 00:00,48hrs to 96hrs,1,1,0,0,Antibiotic,GInutraceutical,0,0,1,1,1,No
+357501,0,22/10/2011 00:00,0,Female_Neutered,Shih-tzu,8.11,01/09/2019 00:00,4-7 days.,1,1,0,0,NonAntibiotic,NoGInutraceutical,0,0,1,1,0,No
+532766,1,21/07/2011 00:00,1,Male_Neutered,Crossbreed,12.8,04/06/2019 00:00,4-7 days.,1,1,0,1,Antibiotic,NoGInutraceutical,1,0,1,1,1,No
+899704,0,31/03/2011 00:00,0,Male_Neutered,Staffordshire Bull Terrier,24.4,15/05/2019 00:00,48hrs to 96hrs,0,1,0,0,NonAntibiotic,GInutraceutical,1,1,0,1,1,No
+935531,1,27/09/2011 00:00,0,Male_Entire,West Highland White Terrier,7.2,09/09/2019 00:00,Less than 24hrs,0,0,0,1,Antibiotic,GInutraceutical,0,0,0,1,0,No
+923596,3,11/04/2011 00:00,0,Female_Neutered,Labrador Retriever,34.6,25/03/2019 00:00,24hrs to 48hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+825757,0,15/07/2011 00:00,1,Female_Neutered,Chihuahua,3.4,03/07/2019 00:00,Not Stated,1,1,0,0,Antibiotic,NoGInutraceutical,0,0,1,1,0,No
+851386,2,22/06/2011 00:00,1,Male_Neutered,Crossbreed,NA,11/06/2019 00:00,Not Stated,1,1,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,0,No
+438224,0,29/03/2011 00:00,1,Male_Neutered,Crossbreed,9.8,26/03/2019 00:00,24hrs to 48hrs,1,1,0,0,Antibiotic,GInutraceutical,0,0,1,1,0,No
+369631,1,05/09/2011 00:00,0,Female_Neutered,Crossbreed,22.9,02/09/2019 00:00,4-7 days.,1,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,1,1,0,No
+245565,1,11/09/2011 00:00,0,Female_Neutered,Terrier,9.1,09/09/2019 00:00,48hrs to 96hrs,1,0,1,0,Antibiotic,GInutraceutical,1,0,0,1,0,No
+714991,0,31/01/2011 00:00,0,Female_Neutered,Yorkshire Terrier,2.11,31/01/2019 00:00,48hrs to 96hrs,1,0,0,0,Antibiotic,GInutraceutical,0,0,1,1,0,No
+280462,1,18/01/2011 00:00,0,Male_Entire,Jack Russell Terrier,5.5,18/01/2019 00:00,Not Stated,0,0,0,0,Antibiotic,NoGInutraceutical,1,0,0,1,0,No
+733120,0,17/02/2011 00:00,0,Male_Neutered,Crossbreed,NA,17/02/2019 00:00,Less than 24hrs,0,0,0,1,NonAntibiotic,NoGInutraceutical,1,0,0,1,0,No
+507398,3,01/09/2011 00:00,0,Female_Neutered,Crossbreed,14.1,03/09/2019 00:00,Not Stated,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+88028,4,04/01/2011 00:00,0,Male_Neutered,Crossbreed,6.2,14/01/2019 00:00,Less than 24hrs,0,1,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+755265,0,26/04/2011 00:00,1,Male_Entire,English Springer Spaniel,23.6,08/05/2019 00:00,48hrs to 96hrs,0,0,0,0,Antibiotic,NoGInutraceutical,0,0,0,1,0,No
+396026,0,20/11/2011 00:00,0,Male_Neutered,Pomeranian,7.29,06/12/2019 00:00,48hrs to 96hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+848117,1,20/11/2011 00:00,0,Female_Entire,Cocker Spaniel,16.5,06/12/2019 00:00,48hrs to 96hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+179510,1,19/05/2011 00:00,1,Male_Entire,Crossbreed,NA,05/06/2019 00:00,24hrs to 48hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+570650,3,04/10/2011 00:00,0,Male_Neutered,Schnauzer,6.7,31/10/2019 00:00,24hrs to 48hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+225697,0,13/07/2011 00:00,1,Female_Neutered,Crossbreed,8.6,10/12/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,1,No
+2446,1,06/12/2010 00:00,1,Female_Neutered,Crossbreed,18.85,03/01/2019 00:00,Less than 24hrs,1,1,0,0,Antibiotic,GInutraceutical,1,0,1,1,0,No
+442647,4,02/09/2011 00:00,0,Female_Neutered,Yorkshire Terrier,2.1,02/10/2019 00:00,48hrs to 96hrs,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+876352,1,10/12/2010 00:00,1,Female_Neutered,Border Terrier,7.57,25/01/2019 00:00,24hrs to 48hrs,1,1,0,0,Antibiotic,NoGInutraceutical,0,0,0,1,1,No
+228361,0,10/07/2011 00:00,1,Female_Neutered,Cavalier King Charles Spaniel,10.5,25/08/2019 00:00,4-7 days.,1,1,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,1,No
+892649,4,17/09/2011 00:00,0,Female_Neutered,Crossbreed,16.9,13/11/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+29158,0,28/10/2011 00:00,1,Female_Entire,Labrador Retriever,28,30/12/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+157947,1,08/05/2011 00:00,0,Male_Entire,German Wire-Haired Pointer,52,10/07/2019 00:00,24hrs to 48hrs,0,0,1,0,Antibiotic,NoGInutraceutical,0,0,0,1,0,No
+20193,4,03/12/2010 00:00,0,Female_Neutered,Golden Retriever,32.3,22/02/2019 00:00,Less than 24hrs,1,1,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+584146,3,26/09/2011 00:00,1,Female_Neutered,Crossbreed,9.45,21/12/2019 00:00,24hrs to 48hrs,1,0,1,0,NonAntibiotic,NoGInutraceutical,0,0,1,1,0,No
+983677,1,12/09/2011 00:00,0,Female_Entire,Cairn Terrier,NA,07/12/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,1,0,0,Yes
+567803,3,13/11/2010 00:00,0,Female_Entire,German Shepherd Dog,33.1,15/02/2019 00:00,Less than 24hrs,1,1,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,0,No
+252755,1,26/04/2011 00:00,1,Male_Neutered,Labrador Retriever,41.5,23/08/2019 00:00,24hrs to 48hrs,0,0,0,0,Antibiotic,GInutraceutical,1,0,0,1,1,No
+225980,4,08/08/2011 00:00,0,Female_Neutered,Crossbreed,22.8,16/12/2019 00:00,24hrs to 48hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+49949,1,30/04/2011 00:00,0,Male_Entire,Golden Retriever,32.3,12/09/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+137352,1,05/07/2011 00:00,1,Male_Neutered,Labrador Retriever,33.8,27/11/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,1,0,1,0,No
+688294,1,31/07/2011 00:00,1,Female_Neutered,Yorkshire Terrier,6,24/12/2019 00:00,4-7 days.,0,0,1,0,Antibiotic,NoGInutraceutical,1,0,0,1,0,No
+446055,0,05/08/2010 00:00,0,Male_Neutered,Beagle,16.8,02/01/2019 00:00,48hrs to 96hrs,1,1,0,0,Antibiotic,NoGInutraceutical,1,0,0,1,0,No
+708263,0,29/01/2011 00:00,0,Female_Neutered,Border Collie,26,02/07/2019 00:00,Less than 24hrs,0,0,0,1,Antibiotic,GInutraceutical,0,0,0,1,1,No
+670725,3,11/12/2010 00:00,1,Male_Neutered,Chihuahua,5.6,23/05/2019 00:00,Less than 24hrs,1,1,0,0,Antibiotic,GInutraceutical,1,0,1,0,0,Yes
+84957,4,03/03/2011 00:00,0,Male_Entire,Jack Russell Terrier,5.45,19/08/2019 00:00,48hrs to 96hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+793208,4,26/08/2010 00:00,0,Female_Entire,Staffordshire Bull Terrier,18.75,16/02/2019 00:00,4-7 days.,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+76050,1,09/05/2011 00:00,1,Male_Neutered,Golden Retriever,38.45,24/05/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+967489,4,01/12/2010 00:00,0,Female_Entire,German Shepherd Dog,49,19/07/2019 00:00,Not Stated,0,0,0,0,Antibiotic,GInutraceutical,0,1,0,1,0,No
+210238,4,27/03/2011 00:00,0,Male_Neutered,West Highland White Terrier,11.4,24/11/2019 00:00,Not Stated,1,0,0,0,Antibiotic,GInutraceutical,0,0,1,1,0,No
+780678,3,14/12/2010 00:00,0,Female_Entire,Crossbreed,5.8,20/08/2019 00:00,48hrs to 96hrs,1,1,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,1,No
+937176,1,27/11/2010 00:00,1,Female_Neutered,Labrador Retriever,27.2,07/08/2019 00:00,48hrs to 96hrs,1,1,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,1,No
+265860,1,24/11/2010 00:00,0,Male_Neutered,Yorkshire Terrier,8.1,06/08/2019 00:00,48hrs to 96hrs,0,0,1,0,NonAntibiotic,GInutraceutical,1,0,0,1,1,No
+201140,1,01/09/2010 00:00,0,Male_Neutered,Border Collie,25.25,20/05/2019 00:00,Less than 24hrs,1,0,0,0,Antibiotic,GInutraceutical,1,1,1,0,1,Yes
+595247,3,04/03/2011 00:00,0,Female_Entire,Crossbreed,4.2,13/12/2019 00:00,Not Stated,0,0,1,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+884962,1,13/07/2010 00:00,1,Female_Neutered,Labradoodle,34.25,02/05/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+237809,1,29/06/2010 00:00,0,Female_Neutered,Crossbreed,20.2,26/04/2019 00:00,24hrs to 48hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+811058,4,29/06/2010 00:00,0,Female_Neutered,West Highland White Terrier,10.7,03/05/2019 00:00,24hrs to 48hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,1,No
+427531,3,19/11/2010 00:00,0,Female_Entire,Spanish Water Dog,28.5,24/09/2019 00:00,48hrs to 96hrs,0,0,0,0,Antibiotic,GInutraceutical,1,0,0,1,0,No
+371213,1,06/09/2010 00:00,1,Female_Neutered,Miniature Poodle,8.75,23/07/2019 00:00,Not Stated,1,0,1,0,Antibiotic,NoGInutraceutical,0,0,1,1,0,No
+947807,3,14/08/2010 00:00,0,Male_Neutered,Border Terrier,NA,15/07/2019 00:00,4-7 days.,0,1,0,1,Antibiotic,NoGInutraceutical,0,0,0,1,0,No
+627204,0,15/02/2010 00:00,0,Female_Neutered,Cockapoo,8.2,22/01/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,GInutraceutical,0,1,0,1,0,No
+471305,1,05/05/2010 00:00,0,Female_Neutered,German Shepherd Dog,27.7,17/04/2019 00:00,24hrs to 48hrs,1,1,0,0,Antibiotic,GInutraceutical,0,0,0,0,0,Yes
+874620,3,06/12/2010 00:00,1,Female_Neutered,Cavachon,NA,25/11/2019 00:00,48hrs to 96hrs,0,0,0,0,Antibiotic,GInutraceutical,0,0,0,1,0,No
+950997,1,04/12/2010 00:00,0,Female_Neutered,English Springer Spaniel,13.8,15/12/2019 00:00,24hrs to 48hrs,1,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+737522,1,16/11/2010 00:00,0,Female_Neutered,Shih-tzu,8.9,02/12/2019 00:00,24hrs to 48hrs,0,0,1,0,Antibiotic,NoGInutraceutical,1,0,0,1,0,No
+624960,4,09/08/2010 00:00,1,Male_Neutered,Lhasa Apso,9.2,18/09/2019 00:00,48hrs to 96hrs,1,1,0,0,Antibiotic,GInutraceutical,1,0,1,1,0,No
+373576,1,04/07/2010 00:00,0,Male_Entire,Crossbreed,47,14/08/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+114078,0,13/06/2010 00:00,0,Male_Neutered,Bichon Frise,8.59,25/07/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,1,No
+217411,3,14/04/2010 00:00,1,Male_Entire,Labrador Retriever,29.1,09/06/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,1,No
+211848,0,04/05/2010 00:00,0,Male_Neutered,Lhasa Apso,8.65,23/07/2019 00:00,48hrs to 96hrs,1,1,0,0,Antibiotic,GInutraceutical,0,0,1,0,0,Yes
+587045,1,25/05/2010 00:00,1,Male_Neutered,Crossbreed,24.7,24/08/2019 00:00,4-7 days.,0,1,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+919187,1,11/06/2010 00:00,0,Male_Entire,Cocker Spaniel,19.65,13/09/2019 00:00,4-7 days.,1,1,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+220103,0,25/10/2009 00:00,0,Male_Entire,Parson Russell Terrier,NA,28/01/2019 00:00,Less than 24hrs,0,0,1,0,Antibiotic,GInutraceutical,0,0,0,1,1,No
+986446,1,12/11/2009 00:00,1,Female_Neutered,Yorkshire Terrier,5.5,22/02/2019 00:00,24hrs to 48hrs,0,1,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+270895,3,07/11/2009 00:00,0,Female_Entire,Cavalier King Charles Spaniel,10.8,23/02/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,1,No
+433379,1,13/02/2010 00:00,0,Female_Entire,Collie,25.3,19/06/2019 00:00,48hrs to 96hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,1,No
+404976,0,08/07/2010 00:00,0,Male_Neutered,American Cocker Spaniel,14.5,13/11/2019 00:00,24hrs to 48hrs,0,1,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+165656,4,07/10/2009 00:00,0,Male_Neutered,Crossbreed,3.35,15/02/2019 00:00,4-7 days.,1,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,0,No
+180203,0,16/07/2010 00:00,1,Female_Neutered,Crossbreed,21,24/11/2019 00:00,24hrs to 48hrs,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+96527,0,25/03/2010 00:00,0,Male_Neutered,Staffordshire Bull Terrier,31,04/08/2019 00:00,Not Stated,0,1,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,1,No
+624329,4,12/07/2010 00:00,0,Male_Neutered,Jack Russell Terrier,22,26/11/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,1,No
+855753,4,01/09/2009 00:00,0,Male_Entire,Jack Russell Terrier,8.3,29/01/2019 00:00,24hrs to 48hrs,0,0,0,0,Antibiotic,NoGInutraceutical,0,0,0,1,0,No
+167347,3,01/04/2010 00:00,1,Female_Neutered,Staffordshire Bull Terrier,15.45,31/08/2019 00:00,24hrs to 48hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,0,0,Yes
+813338,2,06/06/2010 00:00,0,Male_Neutered,Cockapoo,NA,07/11/2019 00:00,24hrs to 48hrs,0,0,0,0,NonAntibiotic,NoGInutraceutical,1,0,0,1,0,No
+164642,1,17/03/2010 00:00,1,Female_Neutered,Shetland Sheepdog,15,12/09/2019 00:00,4-7 days.,1,1,0,0,Antibiotic,NoGInutraceutical,0,0,1,1,0,No
+443634,0,05/02/2010 00:00,0,Female_Neutered,English Springer Spaniel,27,03/08/2019 00:00,Less than 24hrs,0,0,0,0,Antibiotic,NoGInutraceutical,0,0,0,1,0,No
+998538,3,06/05/2010 00:00,0,Female_Neutered,German Shepherd Dog,29.05,07/11/2019 00:00,48hrs to 96hrs,0,0,0,0,Antibiotic,GInutraceutical,0,0,0,1,1,No
+36025,1,01/12/2009 00:00,1,Female_Neutered,Beagle,NA,10/06/2019 00:00,Not Stated,0,0,0,0,Antibiotic,NoGInutraceutical,0,0,1,0,0,Yes
+469299,4,09/07/2009 00:00,0,Male_Entire,German Shepherd Dog,40,25/01/2019 00:00,24hrs to 48hrs,1,1,0,0,Antibiotic,NoGInutraceutical,0,0,1,0,1,Yes
+60929,4,09/09/2009 00:00,0,Female_Neutered,Crossbreed,12.75,30/03/2019 00:00,48hrs to 96hrs,1,1,0,0,NonAntibiotic,GInutraceutical,0,0,1,1,0,No
+560391,4,04/07/2009 00:00,0,Male_Neutered,Boxer,25.5,29/01/2019 00:00,24hrs to 48hrs,0,1,0,0,Antibiotic,NoGInutraceutical,1,0,1,1,0,No
+122447,1,01/07/2009 00:00,1,Male_Neutered,Crossbreed,NA,28/01/2019 00:00,48hrs to 96hrs,1,0,0,0,Antibiotic,NoGInutraceutical,0,0,1,1,0,No
+422798,3,07/01/2010 00:00,0,Male_Entire,English Setter,24.5,07/08/2019 00:00,48hrs to 96hrs,1,1,0,1,Antibiotic,GInutraceutical,0,0,1,1,0,No
+875782,1,07/05/2010 00:00,0,Male_Neutered,Jack Russell Terrier,9,12/12/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,1,No
+722141,0,11/03/2010 00:00,0,Male_Neutered,German Shepherd Dog,41.9,01/11/2019 00:00,Less than 24hrs,0,0,0,0,Antibiotic,NoGInutraceutical,1,0,0,1,1,No
+557653,1,07/09/2009 00:00,0,Male_Neutered,Patterdale Terrier,9.1,02/05/2019 00:00,4-7 days.,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+588526,3,08/07/2009 00:00,0,Female_Neutered,Crossbreed,20.6,03/04/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+236441,0,22/04/2009 00:00,0,Male_Neutered,Staffordshire Bull Terrier,17.8,19/01/2019 00:00,4-7 days.,1,1,0,0,NonAntibiotic,GInutraceutical,1,0,0,1,0,No
+354020,4,02/10/2009 00:00,0,Male_Entire,Miniature Dachshund,8.9,05/07/2019 00:00,4-7 days.,0,0,0,0,Antibiotic,NoGInutraceutical,0,0,1,1,0,No
+598331,3,13/09/2009 00:00,0,Male_Neutered,Crossbreed,20.9,22/06/2019 00:00,24hrs to 48hrs,1,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,1,1,0,No
+729652,0,09/08/2009 00:00,0,Male_Entire,Pug,13.1,22/05/2019 00:00,24hrs to 48hrs,1,1,0,0,Antibiotic,NoGInutraceutical,0,0,1,1,1,No
+957465,2,13/04/2009 15:23,1,Female_Neutered,Staffordshire Bull Terrier,NA,01/02/2019 00:00,Less than 24hrs,0,1,0,0,NonAntibiotic,GInutraceutical,0,0,1,0,0,Yes
+209184,4,04/03/2010 00:00,1,Male_Neutered,Labrador Retriever,33.6,26/12/2019 00:00,48hrs to 96hrs,1,1,0,1,Antibiotic,GInutraceutical,0,0,1,1,0,No
+682854,0,29/12/2009 00:00,0,Female_Neutered,Crossbreed,29.6,23/10/2019 00:00,24hrs to 48hrs,0,1,0,0,Antibiotic,GInutraceutical,1,0,0,1,0,No
+159473,1,09/08/2009 00:00,1,Male_Entire,Staffordshire Bull Terrier,NA,05/06/2019 00:00,24hrs to 48hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,1,1,1,0,No
+691481,1,16/05/2009 00:00,1,Female_Entire,Rottweiler,42.4,13/03/2019 00:00,48hrs to 96hrs,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,1,No
+556276,2,01/01/2010 00:00,0,Male_Neutered,Crossbreed,NA,31/10/2019 00:00,24hrs to 48hrs,1,0,0,0,NonAntibiotic,NoGInutraceutical,0,0,0,1,0,No
+917298,3,06/05/2009 00:00,0,Female_Neutered,Dachshund,5.05,07/03/2019 00:00,Less than 24hrs,1,0,0,0,NonAntibiotic,GInutraceutical,0,0,1,0,0,Yes
+243225,1,10/10/2009 00:00,1,Female_Entire,Cocker Spaniel,16.65,13/08/2019 00:00,4-7 days.,0,0,0,1,Antibiotic,GInutraceutical,1,0,0,1,0,No
+87318,1,11/02/2010 00:00,0,Male_Neutered,English Springer Spaniel,21.5,21/12/2019 00:00,Less than 24hrs,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,1,0,No
+663641,4,17/03/2009 00:00,1,Female_Neutered,English Springer Spaniel,NA,25/01/2019 00:00,Not Stated,0,0,0,0,NonAntibiotic,GInutraceutical,0,0,0,0,1,Yes
+70361,1,01/09/2009 00:00,0,Female_Neutered,Boxer,28.7,15/07/2019 00:00,48hrs to 96hrs,1,0,0,0,Antibiotic,NoGInutraceutical,0,0,0,1,1,No
+441493,3,03/04/2009 00:00,1,Male_Neutered,Springer Spaniel - Unspecified,21,22/02/2019 00:00,Less than 24hrs,1,1,0,0,NonAntibiotic,NoGInutraceutical,0,0,1,1,0,No
+904438,1,15/07/2009 00:00,0,Female_Entire,Jack Russell Terrier,9.2,06/06/2019 00:00,48hrs to 96hrs,1,1,0,0,NonAntibiotic,NoGInutraceutical,0,0,1,1,0,No
+121420,0,14/04/2009 00:00,0,Female_Neutered,Affenpinscher,7.9,16/03/2019 00:00,24hrs to 48hrs,1,1,0,0,NonAntibiotic,GInutraceutical,1,0,1,1,0,No
+979735,0,10/06/2009 00:00,1,Female_Neutered,German Shepherd Dog,NA,18/05/2019 00:00,4-7 days.,0,0,0,0,Antibiotic,NoGInutraceutical,1,0,0,1,1,No
+1445,4,10/11/2009 00:00,0,Male_Entire,Staffordshire Bull Terrier,23.8,17/12/2019 00:00,24hrs to 48hrs,1,1,0,0,Antibiotic,GInutraceutical,1,0,1,1,0,No
