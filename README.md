@@ -10,3 +10,4 @@ The file "240403_UI_Target_Trial_Open_Access" contains the data used to answer t
 "What is the causal effect of neutering at 3 to < 7 months versus neutering at ≥ 7 to ≤ 18 months on early-onset urinary incontinence (UI) diagnosis (defined as UI diagnosed at < 8.5 years) in bitches?" 
 The study included bitches in the VetCompass database born from January 1, 2010, to December 31, 2012, and neutered between 3 and 18 months old. 
 Inverse probability of treatment weighting was used to adjust for confounding, with inverse probability of censoring weighting accounting for censored bitches. 
+The file "240807_UI_Target_Trial_Open_Access" contains sample R code for the data analysis.
