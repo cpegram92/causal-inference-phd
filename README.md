@@ -1,7 +1,9 @@
 # causal-inference-phd
 This repository contains sample data and R code used for studies as part of my PhD titled "VetCompass eClinical Trials (VETs) – Generating Interventional Evidence from Observational Data"
 
-The files "230829_Diarrhoea_Target_Trial_Open_Access", "240808_Diarrhoea_Target_Trial_Open_Access_Clinical_Resolution" and "240807_Diarrhoea_Target_Trial_Open_Access_Time_To_Event" provide sample data and R code used to answer the research question: "Does antimicrobial prescription compared to no antimicrobial prescription and (separately) gastrointestinal nutraceutical prescription compared to no gastrointestinal nutraceutical prescription for acute diarrhoea in dogs cause a difference in clinical resolution and time to treatment escalation?"
+The files "230829_Diarrhoea_Target_Trial_Open_Access", "240808_Diarrhoea_Target_Trial_Open_Access_Clinical_Resolution" and "240807_Diarrhoea_Target_Trial_Open_Access_Time_To_Event" 
+provide sample data and R code used to answer the research question: "Does antimicrobial prescription compared to no antimicrobial prescription and (separately) gastrointestinal nutraceutical prescription 
+compared to no gastrointestinal nutraceutical prescription for acute diarrhoea in dogs cause a difference in clinical resolution and time to treatment escalation?"
 The study used Target Trial Emulation and included dogs diagnosed with acute, uncomplicated diarrhoea between January 1, 2019 and December 31, 2019 within the VetCompass database.
 Inverse probability of treatment weighting (IPTW) was used to adjust for confounding.
 The R files show example code for antimicrobial prescription as the exposure.
