@@ -7,6 +7,7 @@ compared to no gastrointestinal nutraceutical prescription for acute diarrhoea i
 The study used Target Trial Emulation and included dogs diagnosed with acute, uncomplicated diarrhoea between January 1, 2019 and December 31, 2019 within the VetCompass database.
 Inverse probability of treatment weighting (IPTW) was used to adjust for confounding.
 The R files show example code for antimicrobial prescription as the exposure.
+Published paper available: Target Trial Emulation: Do antimicrobials or gastrointestinal nutraceuticals prescribed at first presentation for acute diarrhoea cause a better clinical outcome in dogs under primary veterinary care in the UK? Pegram C., Diaz-Ordaz K., Brodbelt D. C., Chang Y., Tayler S., Allerton F., Prisk L., Church D. B. & O'Neill D. G. (2023) PLOS ONE
 
 The files "230913_CCL_Target_Trial_Open_Access" and "230913_CCL_Target_Trial_Open_Access" provides sample data and R code used to answer the research question: 
 "Does surgical versus non-surgical management of cranial cruciate ligament rupture in dogs cause different outcomes?"
