@@ -24,3 +24,9 @@ IPTW was used to adjust for confounding, with IPCW accounting for bitches lost t
 
 Published paper reference: Later-Age Neutering Causes Lower Risk Of Early‐Onset Urinary Incontinence Than Early Neutering – A Vetcompass Target Trial Emulation Study. Pegram, C., Diaz-Ordaz, K., Brodbelt, D. C., Chang, Y., Hall, J. L., Church, D. B. & O’neill D.G. 2024. PLOS ONE.
 
+The files "240807_MVD_Competing_Event_Open_Access" and "250618_MVD_Target_Trial_Comp_Ev_Open_Access" provides sample data and R code used to answer the research question: 
+"Does the prescription of pimobendan to dogs within 6 months of first grade IV/VI heart murmur cause a difference in (i) time to congestive heart failure (CHF), considering death as a competing event (primary outcome)?"
+The study used Target Trial Emulation and included dogs aged 6 years or older with a bodyweight ≤15 kg, first grade IV/VI heart murmur recorded from January 1st 2016 to December 31st 2018. 
+Intention to treat analysis with ‘clone-and-censor’ weighting is used to account for baseline confounding and immortal time bias. The artificial censoring is then addressed using inverse probability weighting. Covariate balance at the end of the grace period is assessed using standardised mean differences. Loss to follow-up beyond the grace period addressed using inverse probability of censoring weighting. A weighted non-parametric estimation of the cumulative probabilities and RMTL using the Aalen-Johansen approach.  Dogs are followed up until artificially censored, CHF, death, loss to follow-up, or end of follow-up period, whichever came first.
+
+Published paper reference: Pegram, C., Diaz-Ordaz, K., Brodbelt, D.C., Chang, Y., Boswood, A., Wilshaw, J., Reep, C.A.T., Balling, S., Sahota, J., Church, D.B., O’Neill D.G. (2025). Emulating the EPIC trial using VetCompass primary-care data: causal effects of pimobendan in UK dogs with grade IV/VI heart murmurs. PLOS One.
